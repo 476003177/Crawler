@@ -1,0 +1,2 @@
+大数据开发（中级）
+<P><B>任职条件 </B></P><P>1.熟悉 J2EE 技术架构体系;</P><P>2.熟悉 Struts、Hibernate、Spring、mybatis 等主流开源框架;</P><P>3.熟悉linux命令操作、shell脚本开发; </P><P>4.熟悉oracle或mysql等主流数据库；</P><P>5.大专以上学历，3年及3年以上开发工作经验,有hadoop、hive、spark等大数据开发经验更佳</P><P>6.个人能力要求：工作负责,责任心强、团队沟通能力良好、有一定的技术钻研和独立工作能力</P><br/><P>收简历的邮箱: recruiter1@beyondsoft.com</P>

@@ -1,0 +1,2 @@
+大数据开发工程师
+<p>岗位要求：</p><p>1、相关专业毕业，两年以上数据处理开发经验；</p><p>2、熟悉ETL开发过程和规范，熟悉主流的ETL工具；</p><p>3、熟悉Linux、Unix等操作系统，熟悉JAVA编程；</p><p>4、熟悉MySQL、Oracle数据库的使用；</p><p>5、熟练的SQL语句编写能力，具有SQL调优能力；</p><p>6、熟悉Hive、Spark、Hadoop、LUCENT、SOLR、ES等大数据相关技术。</p>

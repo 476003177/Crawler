@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=278749&guid=&dType=1&jobId=96991890&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!--Template No.5563 Original Designer: wuqingyue -->
+<!--images 02A1-6GQ4.JPG -->
+<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>【康美药业股份有限公司招聘，求职】康美药业股份有限公司前程无忧官方招聘网站</title>
+<META content="<button.description>" name="description">
+<META content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<style>body {
+	margin:0px;
+	text-align:center;
+	float: none;
+	background-color:#1fa3a9;
+	font-size:14px;
+	font-family:"微软雅黑"，Verdana, Arial, Helvetica, sans-serif;
+	line-height:22px;
+	color: #333333;	
+}
+table,td,div {
+	font-size:14px;
+	font-family:"微软雅黑"，Verdana, Arial, Helvetica, sans-serif;
+	line-height:22px;
+	color: #333333;	
+}
+
+a:link {
+	color: #04464c;
+	text-decoration: none;
+}
+a:visited {
+	color: #04464c;
+	text-decoration: none;
+}
+a:hover {
+	color: #AF003B;
+	text-decoration: underline;
+}
+a:active {
+	color: #04464c;
+	text-decoration: underline;
+	font-weight: bold;
+}
+div.container{
+	width:1003px;
+	text-align:left;
+	background-color:#1fa3a9;
+	margin:0 auto;
+}
+div.head_logobg {
+	float: none;
+	height:85px;
+	background-image: url(http://zp.kangmei.com.cn/images/index_01_01.jpg);
+}
+div.head_toppic {
+	float: none;	
+	
+	
+}
+div.content {
+	float: left;
+	background-color:#FFFFFF;
+	width: 1003px;
+	background-image:url(http://zp.kangmei.com.cn/images/index_13.jpg);
+    background-position: right;
+	background-repeat: repeat-y;
+}
+div.nav{
+	float:left;
+	width:205px;
+	height: 100%;
+}
+div.nav ul {
+	margin:0px;
+	list-style-type: none;
+}
+div.nav li {
+	float:left;
+	list-style-type: none;
+}
+div.intro {
+
+	width: 715px;
+	background-image:
+	background-repeat: no-repeat;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+div.career {
+	float: left;
+	width: 715px;
+	padding-top: 36px;
+	padding-right: 47px;
+	padding-bottom: 10px;
+	padding-left: 33px;
+	background-image: url(http://zp.kangmei.com.cn/images/index_16.jpg);
+	background-repeat: no-repeat;
+}
+div.career1 {
+	float: left;
+	width: 715px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+div.career1 ul {
+	margin:0px;
+}
+div.career1 ul li{
+	float:left;
+	text-align:left;
+	width:220px;
+}
+div.main_bottom {
+	float: left;
+	height:29px;
+	background-image: url(http://zp.kangmei.com.cn/images/aaaaaaa_10.jpg);
+	width: 1003px;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+h3 {
+	line-height:2em;
+	font-size: 12px;
+	font-weight: bold;
+}
+div.contact {
+
+}
+div.foot {
+	float: left;
+	height:45px;
+	background-image: url(http://zp.kangmei.com.cn/images/index_11.jpg);
+	background-repeat: no-repeat;
+	text-align:center;
+	padding-top: 25px;
+	width: 1003px;
+	color: #FFFFCC;
+} 
+h6{ font-weight:normal;}
+.searcha{  padding-left:19px; padding-right:17px;  padding-top:10px;}
+.infobox{ width:95%; text-align:justify; margin:0 auto;}
+.foot{ width:100%; height:30px; padding-top:20px; text-align:center;}
+.sch{ width:200px; height:20px; margin-bottom:10px;}
+.text{ width:130px; height:17px; line-height:17px;}
+.ye{ width:20px; height:18px;}
+</style>
+<script src="http://zp.kangmei.com.cn/Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body bgcolor="#cccccc">
+<button.automatical>
+
+    <div class="container">
+      <div class="head_logobg"></div>
+        <div class="head_toppic">
+  
+<div style="width:1003px;">
+   <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1003" height="305">
+    <param name="movie" value="http://zp.kangmei.com.cn/images/km2.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <param name="swfversion" value="11.0.0.0" />
+    <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    <param name="expressinstall" value="http://zp.kangmei.com.cn/Scripts/expressInstall.swf" />
+    <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://zp.kangmei.com.cn/images/km2.swf" width="1003" height="305">
+      <!--<![endif]-->
+      <param name="quality" value="high" />
+      <param name="wmode" value="opaque" />
+      <param name="swfversion" value="11.0.0.0" />
+      <param name="expressinstall" value="http://zp.kangmei.com.cn/Scripts/expressInstall.swf" />
+      <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+      <div>
+        <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" /></a></p>
+      </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+</div>
+<img src="http://zp.kangmei.com.cn/images/index_020.jpg" width="1003" height="37" border="0" usemap="#MapMap" /></div>
+      <div class="content">
+ 
+ <div style="float:left; width:200px; padding-left:10px; margin-top:20px; padding-top:43px; background:url(http://zp.kangmei.com.cn/images/sousuo.jpg) center top no-repeat;">
+<form id="form" name="quicksearch" method="post" action="http://zp.kangmei.com.cn/job_list.php?begin=begin" >
+<input type="hidden" name="keywordtype" value="2" /> 
+  <select style="width:170px; margin-left:12px; margin-bottom:9px; height:24px;" name="company" >
+  <option value="0000" selected="selected">--请选择分公司名称--</option>
+<option value="4488031"  title="康美医院投资管理有限公司">康美医院投资管理有限公司</option>
+<option value="3807667"  title="康美健康云服务有限公司">康美健康云服务有限公司</option>
+<option value="3641387"  title="上海德大堂国药有限公司">上海德大堂国药有限公司</option>
+<option value="3477340"  title="康美（北京）药物研究院有限公司">康美（北京）药物研究院有限公司</option>
+<option value="3278970"  title="广东康美药业有限公司">广东康美药业有限公司</option>
+<option value="3037414"  title="广东康美物流有限公司">广东康美物流有限公司</option>
+<option value="2939370"  title="康美（深圳）电子商务公司">康美（深圳）电子商务公司</option>
+<option value="2643067"  title="康美保宁（四川）制药有限公司">康美保宁（四川）制药有限公司</option>
+<option value="2634832"  title="广东康美通信息服务有限公司">广东康美通信息服务有限公司</option>
+<option value="2632854"  title="成都康美药业生产有限公司">成都康美药业生产有限公司</option>
+<option value="2632825"  title="康美药业股份有限公司北京分公司">康美药业股份有限公司北京分公司</option>
+<option value="2632789"  title="成都康美药业有限公司">成都康美药业有限公司</option>
+<option value="2632677"  title="上海美峰食品有限公司">上海美峰食品有限公司</option>
+<option value="2632665"  title="康美药业股份有限公司上海分公司">康美药业股份有限公司上海分公司</option>
+<option value="2632523"  title="康美药业股份有限公司广州分公司">康美药业股份有限公司广州分公司</option>
+<option value="2632300"  title="深圳市康美人生医药有限公司">深圳市康美人生医药有限公司</option>
+<option value="2368150"  title="康美药业股份有限公司">康美药业股份有限公司</option>
+</select><br />
+<select style="width:170px; margin-left:12px; margin-bottom:9px; height:24px;" name="division" >
+<option value="0000" selected="selected">--请选择业务部门--</option>
+          <option value="(4322043)" title="OTC事业部">OTC事业部</option>
+<option value="(4322798)" title="康美人生">康美人生</option>
+<option value="(4323785)" title="信息管理中心">信息管理中心</option>
+<option value="(4323789)" title="财务部">财务部</option>
+<option value="(4323790)" title="市场管理部">市场管理部</option>
+<option value="(4334693)" title="总经办">总经办</option>
+<option value="(4335162)" title="审计部">审计部</option>
+<option value="(4361300)" title="医疗器械部">医疗器械部</option>
+<option value="(4382152)" title="工程管理中心">工程管理中心</option>
+<option value="(4401236)" title="配方颗粒基地筹建办">配方颗粒基地筹建办</option>
+</select><br />
+<select style="width:170px; margin-left:12px; margin-bottom:9px; height:24px;" name="funtype" >
+  <option value="0000" selected="selected">--请选择职位类别--</option>
+                      <option value="0100" title="计算机软件">计算机软件</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0107" title="--软件工程师">--软件工程师</option>
+<option value="0108" title="--数据库工程师/管理员">--数据库工程师/管理员</option>
+<option value="0127" title="--系统工程师">--系统工程师</option>
+<option value="0142" title="--其他">--其他</option>
+<option value="0146" title="--ERP实施顾问">--ERP实施顾问</option>
+<option value="0148" title="--算法工程师">--算法工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0201" title="--销售总监">--销售总监</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0207" title="--渠道/分销经理">--渠道/分销经理</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0220" title="--渠道/分销主管">--渠道/分销主管</option>
+<option value="0226" title="--区域销售经理">--区域销售经理</option>
+<option value="0235" title="--大客户管理">--大客户管理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0302" title="--市场/营销/拓展经理">--市场/营销/拓展经理</option>
+<option value="0303" title="--市场/营销/拓展主管">--市场/营销/拓展主管</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0305" title="--市场助理">--市场助理</option>
+<option value="0307" title="--产品/品牌主管">--产品/品牌主管</option>
+<option value="0311" title="--促销主管/督导">--促销主管/督导</option>
+<option value="0312" title="--促销员/导购">--促销员/导购</option>
+<option value="0324" title="--市场分析/调研人员">--市场分析/调研人员</option>
+<option value="0330" title="--产品/品牌专员">--产品/品牌专员</option>
+<option value="0336" title="--市场企划经理/主管">--市场企划经理/主管</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0402" title="--财务经理">--财务经理</option>
+<option value="0403" title="--财务主管/总账主管">--财务主管/总账主管</option>
+<option value="0404" title="--会计经理/会计主管">--会计经理/会计主管</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0406" title="--财务分析经理/主管">--财务分析经理/主管</option>
+<option value="0414" title="--出纳员">--出纳员</option>
+<option value="0419" title="--审计专员/助理">--审计专员/助理</option>
+<option value="0422" title="--财务助理/文员">--财务助理/文员</option>
+<option value="0445" title="--财务顾问">--财务顾问</option>
+<option value="0446" title="--统计员">--统计员</option>
+<option value="0500" title="工程/机械/能源">工程/机械/能源</option>
+<option value="0514" title="--工程/设备主管">--工程/设备主管</option>
+<option value="0584" title="--项目管理">--项目管理</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0603" title="--人事主管">--人事主管</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0605" title="--人事助理">--人事助理</option>
+<option value="0610" title="--培训专员/助理/培训师">--培训专员/助理/培训师</option>
+<option value="0626" title="--招聘专员/助理">--招聘专员/助理</option>
+<option value="0628" title="--绩效考核专员/助理">--绩效考核专员/助理</option>
+<option value="0629" title="--企业文化/员工关系/工会管理">--企业文化/员工关系/工会管理</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0703" title="--总裁助理/总经理助理">--总裁助理/总经理助理</option>
+<option value="0711" title="--企业秘书/董事会秘书">--企业秘书/董事会秘书</option>
+<option value="0800" title="物流/仓储">物流/仓储</option>
+<option value="0801" title="--物流经理">--物流经理</option>
+<option value="0808" title="--仓库经理/主管">--仓库经理/主管</option>
+<option value="0809" title="--仓库管理员">--仓库管理员</option>
+<option value="0813" title="--快递员">--快递员</option>
+<option value="0814" title="--物流专员/助理">--物流专员/助理</option>
+<option value="0823" title="--理货员">--理货员</option>
+<option value="0824" title="--其他">--其他</option>
+<option value="0825" title="--供应链经理">--供应链经理</option>
+<option value="0828" title="--供应链总监">--供应链总监</option>
+<option value="0830" title="--集装箱业务">--集装箱业务</option>
+<option value="0831" title="--调度员">--调度员</option>
+<option value="0900" title="艺术/设计">艺术/设计</option>
+<option value="0904" title="--平面设计师">--平面设计师</option>
+<option value="0924" title="--动画/3D设计">--动画/3D设计</option>
+<option value="0925" title="--展览/展示/店面设计">--展览/展示/店面设计</option>
+<option value="0927" title="--包装设计">--包装设计</option>
+<option value="0931" title="--平面设计经理/主管">--平面设计经理/主管</option>
+<option value="1000" title="科研">科研</option>
+<option value="1001" title="--科研人员">--科研人员</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1101" title="--律师/法律顾问">--律师/法律顾问</option>
+<option value="1102" title="--法务主管/专员">--法务主管/专员</option>
+<option value="1106" title="--法务经理">--法务经理</option>
+<option value="1107" title="--法务助理">--法务助理</option>
+<option value="1110" title="--合规主管/专员">--合规主管/专员</option>
+<option value="1300" title="医院/医疗/护理">医院/医疗/护理</option>
+<option value="1301" title="--内科医生">--内科医生</option>
+<option value="1302" title="--医院管理人员">--医院管理人员</option>
+<option value="1304" title="--药库主任/药剂师">--药库主任/药剂师</option>
+<option value="1305" title="--护士/护理人员">--护士/护理人员</option>
+<option value="1311" title="--其他">--其他</option>
+<option value="1314" title="--营养师">--营养师</option>
+<option value="1322" title="--中医科医生">--中医科医生</option>
+<option value="1323" title="--公共卫生/疾病控制">--公共卫生/疾病控制</option>
+<option value="1324" title="--护理主任/护士长">--护理主任/护士长</option>
+<option value="1328" title="--综合门诊/全科医生">--综合门诊/全科医生</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1409" title="--调研员">--调研员</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1703" title="--实习生">--实习生</option>
+<option value="1900" title="其他">其他</option>
+<option value="1901" title="--其他">--其他</option>
+<option value="2100" title="建筑工程与装潢">建筑工程与装潢</option>
+<option value="2105" title="--工程造价师/预结算经理">--工程造价师/预结算经理</option>
+<option value="2124" title="--预结算员">--预结算员</option>
+<option value="2200" title="银行">银行</option>
+<option value="2209" title="--风险控制">--风险控制</option>
+<option value="2227" title="--综合业务经理/主管">--综合业务经理/主管</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2304" title="--经理助理/秘书">--经理助理/秘书</option>
+<option value="2305" title="--前台接待/总机/接待生">--前台接待/总机/接待生</option>
+<option value="2306" title="--后勤">--后勤</option>
+<option value="2309" title="--其他">--其他</option>
+<option value="2400" title="计算机硬件">计算机硬件</option>
+<option value="2403" title="--其他">--其他</option>
+<option value="2500" title="互联网/电子商务/网游">互联网/电子商务/网游</option>
+<option value="2501" title="--互联网软件开发工程师">--互联网软件开发工程师</option>
+<option value="2506" title="--网站策划">--网站策划</option>
+<option value="2508" title="--网页设计/制作/美工">--网页设计/制作/美工</option>
+<option value="2511" title="--其他">--其他</option>
+<option value="2515" title="--UI设计师/顾问">--UI设计师/顾问</option>
+<option value="2516" title="--网站运营专员">--网站运营专员</option>
+<option value="2525" title="--产品经理/主管">--产品经理/主管</option>
+<option value="2526" title="--产品专员">--产品专员</option>
+<option value="2527" title="--电子商务经理/主管">--电子商务经理/主管</option>
+<option value="2528" title="--电子商务专员">--电子商务专员</option>
+<option value="2531" title="--产品总监">--产品总监</option>
+<option value="2534" title="--网络推广专员">--网络推广专员</option>
+<option value="2535" title="--电子商务总监">--电子商务总监</option>
+<option value="2536" title="--用户体验（UE/UX）设计师">--用户体验（UE/UX）设计师</option>
+<option value="2537" title="--手机应用开发工程师">--手机应用开发工程师</option>
+<option value="2539" title="--Web前端开发">--Web前端开发</option>
+<option value="2600" title="IT-管理">IT-管理</option>
+<option value="2602" title="--技术总监/经理">--技术总监/经理</option>
+<option value="2603" title="--信息技术经理/主管">--信息技术经理/主管</option>
+<option value="2604" title="--信息技术专员">--信息技术专员</option>
+<option value="2606" title="--项目经理">--项目经理</option>
+<option value="2607" title="--项目主管">--项目主管</option>
+<option value="2608" title="--项目执行/协调人员">--项目执行/协调人员</option>
+<option value="2700" title="IT-品管、技术支持及其它">IT-品管、技术支持及其它</option>
+<option value="2701" title="--技术支持/维护经理">--技术支持/维护经理</option>
+<option value="2702" title="--技术支持/维护工程师">--技术支持/维护工程师</option>
+<option value="2705" title="--品质经理">--品质经理</option>
+<option value="2707" title="--软件测试">--软件测试</option>
+<option value="2709" title="--测试员">--测试员</option>
+<option value="2711" title="--其他">--其他</option>
+<option value="2712" title="--网络管理(Helpdesk)">--网络管理(Helpdesk)</option>
+<option value="2900" title="电子/电器/半导体/仪器仪表">电子/电器/半导体/仪器仪表</option>
+<option value="2903" title="--电子工程师/技术员">--电子工程师/技术员</option>
+<option value="2920" title="--电子/电器维修工程师/技师">--电子/电器维修工程师/技师</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3006" title="--经销商">--经销商</option>
+<option value="3007" title="--其他">--其他</option>
+<option value="3012" title="--销售助理">--销售助理</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3103" title="--商务经理">--商务经理</option>
+<option value="3104" title="--商务主管/专员">--商务主管/专员</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3106" title="--销售行政助理">--销售行政助理</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3203" title="--客服主管">--客服主管</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3208" title="--咨询热线/呼叫中心服务人员">--咨询热线/呼叫中心服务人员</option>
+<option value="3209" title="--其他">--其他</option>
+<option value="3210" title="--客户关系经理/主管">--客户关系经理/主管</option>
+<option value="3212" title="--VIP专员">--VIP专员</option>
+<option value="3213" title="--网络/在线客服">--网络/在线客服</option>
+<option value="3300" title="金融/证券/期货/投资">金融/证券/期货/投资</option>
+<option value="3305" title="--投资/基金项目经理">--投资/基金项目经理</option>
+<option value="3308" title="--融资经理/融资主管">--融资经理/融资主管</option>
+<option value="3309" title="--融资专员">--融资专员</option>
+<option value="3311" title="--其他">--其他</option>
+<option value="3314" title="--风险管理/控制">--风险管理/控制</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3501" title="--工厂经理/厂长">--工厂经理/厂长</option>
+<option value="3503" title="--项目经理/主管">--项目经理/主管</option>
+<option value="3511" title="--其他">--其他</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3601" title="--质量管理/测试经理(QA/QC经理)">--质量管理/测试经理(QA/QC经理)</option>
+<option value="3602" title="--质量管理/测试主管(QA/QC主管)">--质量管理/测试主管(QA/QC主管)</option>
+<option value="3603" title="--质量管理/测试工程师(QA/QC工程师)">--质量管理/测试工程师(QA/QC工程师)</option>
+<option value="3604" title="--质量检验员/测试员">--质量检验员/测试员</option>
+<option value="3700" title="技工普工">技工普工</option>
+<option value="3706" title="--电工">--电工</option>
+<option value="3708" title="--空调工">--空调工</option>
+<option value="3710" title="--普工/操作工">--普工/操作工</option>
+<option value="3713" title="--其他">--其他</option>
+<option value="3900" title="采购">采购</option>
+<option value="3902" title="--采购经理">--采购经理</option>
+<option value="3903" title="--采购主管">--采购主管</option>
+<option value="3904" title="--采购员">--采购员</option>
+<option value="3905" title="--采购助理">--采购助理</option>
+<option value="4100" title="生物/制药/医疗器械">生物/制药/医疗器械</option>
+<option value="4101" title="--生物工程/生物制药">--生物工程/生物制药</option>
+<option value="4103" title="--医药技术研发管理人员">--医药技术研发管理人员</option>
+<option value="4104" title="--医药技术研发人员">--医药技术研发人员</option>
+<option value="4105" title="--临床研究员">--临床研究员</option>
+<option value="4106" title="--临床协调员">--临床协调员</option>
+<option value="4108" title="--药品生产/质量管理">--药品生产/质量管理</option>
+<option value="4109" title="--药品市场推广经理">--药品市场推广经理</option>
+<option value="4110" title="--药品市场推广主管/专员">--药品市场推广主管/专员</option>
+<option value="4111" title="--医药销售经理/主管">--医药销售经理/主管</option>
+<option value="4112" title="--医药代表">--医药代表</option>
+<option value="4114" title="--医疗器械销售代表">--医疗器械销售代表</option>
+<option value="4115" title="--其他">--其他</option>
+<option value="4116" title="--化学分析测试员">--化学分析测试员</option>
+<option value="4118" title="--医疗器械生产/质量管理">--医疗器械生产/质量管理</option>
+<option value="4121" title="--政府事务管理">--政府事务管理</option>
+<option value="4122" title="--招投标管理">--招投标管理</option>
+<option value="4125" title="--医疗器械销售经理/主管">--医疗器械销售经理/主管</option>
+<option value="4126" title="--医药学术推广">--医药学术推广</option>
+<option value="4200" title="广告">广告</option>
+<option value="4207" title="--文案/策划">--文案/策划</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4313" title="--活动策划">--活动策划</option>
+<option value="4314" title="--活动执行">--活动执行</option>
+<option value="4400" title="影视/媒体">影视/媒体</option>
+<option value="4410" title="--其他">--其他</option>
+<option value="4411" title="--后期制作">--后期制作</option>
+<option value="4500" title="编辑出版">编辑出版</option>
+<option value="4502" title="--编辑">--编辑</option>
+<option value="4600" title="房地产开发">房地产开发</option>
+<option value="4602" title="--房地产项目/策划主管/专员">--房地产项目/策划主管/专员</option>
+<option value="4607" title="--其他">--其他</option>
+<option value="4800" title="餐饮服务">餐饮服务</option>
+<option value="4801" title="--店长/经理">--店长/经理</option>
+<option value="4806" title="--行政主厨/厨师长">--行政主厨/厨师长</option>
+<option value="4813" title="--配菜/打荷">--配菜/打荷</option>
+<option value="4818" title="--收银员">--收银员</option>
+<option value="5100" title="百货零售">百货零售</option>
+<option value="5101" title="--卖场经理/店长">--卖场经理/店长</option>
+<option value="5102" title="--店员/营业员">--店员/营业员</option>
+<option value="5105" title="--导购员">--导购员</option>
+<option value="5107" title="--其他">--其他</option>
+<option value="5200" title="家政保洁">家政保洁</option>
+<option value="5206" title="--家政服务/保姆">--家政服务/保姆</option>
+<option value="5600" title="环保">环保</option>
+<option value="5601" title="--环保工程师">--环保工程师</option>
+<option value="5603" title="--其它">--其它</option>
+<option value="5605" title="--环保检测">--环保检测</option>
+<option value="6200" title="机械机床">机械机床</option>
+<option value="6203" title="--机修工">--机修工</option>
+</select>
+<br />
+<select style="width:170px; margin-left:12px; margin-bottom:9px; height:24px;" name="jobarea" >
+  <option value="0000" selected="selected">--请选择工作地点--</option>
+  <option value="010000" title="北京">北京</option>
+<option value="010100" title="北京-东城区">北京-东城区</option>
+<option value="010200" title="北京-西城区">北京-西城区</option>
+<option value="010500" title="北京-朝阳区">北京-朝阳区</option>
+<option value="010800" title="北京-海淀区">北京-海淀区</option>
+<option value="011400" title="北京-大兴区">北京-大兴区</option>
+<option value="020000" title="上海">上海</option>
+<option value="020300" title="上海-徐汇区">上海-徐汇区</option>
+<option value="021300" title="上海-嘉定区">上海-嘉定区</option>
+<option value="021600" title="上海-青浦区">上海-青浦区</option>
+<option value="030000" title="广东省">广东省</option>
+<option value="030200" title="广州">广州</option>
+<option value="030201" title="广州-越秀区">广州-越秀区</option>
+<option value="030203" title="广州-海珠区">广州-海珠区</option>
+<option value="030204" title="广州-天河区">广州-天河区</option>
+<option value="030207" title="广州-番禺区">广州-番禺区</option>
+<option value="030211" title="广州-增城">广州-增城</option>
+<option value="030500" title="珠海">珠海</option>
+<option value="030602" title="佛山-顺德区">佛山-顺德区</option>
+<option value="030604" title="佛山-三水区">佛山-三水区</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="031800" title="肇庆">肇庆</option>
+<option value="031900" title="清远">清远</option>
+<option value="032200" title="揭阳">揭阳</option>
+<option value="032600" title="梅州">梅州</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="040100" title="深圳-福田区">深圳-福田区</option>
+<option value="040200" title="深圳-罗湖区">深圳-罗湖区</option>
+<option value="040500" title="深圳-宝安区">深圳-宝安区</option>
+<option value="041000" title="深圳-龙华新区">深圳-龙华新区</option>
+<option value="050000" title="天津">天津</option>
+<option value="060000" title="重庆">重庆</option>
+<option value="060700" title="重庆-渝北区">重庆-渝北区</option>
+<option value="061500" title="重庆-南岸区">重庆-南岸区</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070306" title="苏州-工业园区">苏州-工业园区</option>
+<option value="080000" title="浙江省">浙江省</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080600" title="金华">金华</option>
+<option value="090200" title="成都">成都</option>
+<option value="090201" title="成都-青羊区">成都-青羊区</option>
+<option value="091100" title="南充">南充</option>
+<option value="110300" title="厦门">厦门</option>
+<option value="120400" title="烟台">烟台</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="190000" title="湖南省">湖南省</option>
+<option value="190200" title="长沙">长沙</option>
+<option value="190202" title="长沙-天心区">长沙-天心区</option>
+<option value="190300" title="株洲">株洲</option>
+<option value="200200" title="西安">西安</option>
+<option value="210200" title="太原">太原</option>
+<option value="220000" title="黑龙江省">黑龙江省</option>
+<option value="230000" title="辽宁省">辽宁省</option>
+<option value="230200" title="沈阳">沈阳</option>
+<option value="230209" title="沈阳-铁西区">沈阳-铁西区</option>
+<option value="230210" title="沈阳-于洪区">沈阳-于洪区</option>
+<option value="240200" title="长春">长春</option>
+<option value="250000" title="云南省">云南省</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="280000" title="内蒙古">内蒙古</option>
+<option value="320200" title="西宁">西宁</option>
+</select>
+<br />
+<select style="width:170px; margin-left:12px; margin-bottom:9px; height:24px;" name="issuedate" >
+  <option value="0000" selected="selected">--请选择发布时间--</option>
+  <OPTION VALUE=01>近一天</OPTION><OPTION VALUE=02>近二天</OPTION><OPTION VALUE=03>近三天</OPTION><OPTION VALUE=07>近一周</OPTION><OPTION VALUE=14>近两周</OPTION><OPTION VALUE=30>近一月</OPTION><OPTION VALUE=42>近六周</OPTION><OPTION VALUE=60>近两月</OPTION></select>
+<br />
+  
+    
+<input type="text"  name="keyword"  value="请输入职位关键字"  id="keyword" onfocus="javascript:clearfield()" style=" width:103px; margin-left:12px;height:18px; line-height:18px; float:left; letter-spacing:-1px;" />
+<INPUT type=image name=image src="http://zp.kangmei.com.cn/images/search.jpg" width="60" height="23" style="float:right; margin-right:18px; border:0;" /><br /><br />
+ 
+  <img src="http://zp.kangmei.com.cn/images/index22a.jpg"  border="0" usemap="#Map2" />  
+
+      </form>
+
+
+  </div>  
+      <script language="javascript">
+function clearfield(){
+if (document.getElementById("keyword").value == "请输入职位关键字")
+document.getElementById("keyword").value = "";
+}
+	</script>       
+  	   
+<div style=" width:750px; float:right; padding:0 20px; background:url(http://zp.kangmei.com.cn/images/index_04.jpg) top no-repeat;"><br />
+ <p style=" font-size:14px;">       
+<strong>公司名称：康美药业股份有限公司广州分公司 <br />
+职位名称：采购专员</strong><br />
+<hr />
+</p>
+<p><strong>发布日期： 2017-12-17<br />
+工作年限：不限<br />
+招聘人数：5<br />
+工作地点： 广州-天河区</strong><br />
+<hr /></p>
+ <p>职位概述<br />  
+ 工作职责：<br />
+负责物料引进、采购工作，包括以下内容：<br />
+1.熟悉所负责产品的相关管理条例及法规，并对采购订单的要求，交期进行掌控。<br />
+2.熟悉所负责产品的市场价格信息，了解渠道来源，降低采购成本。<br />
+3.对供应商进行审核，并及时更新供应商档案信息。<br />
+4.上级安排的其他工作。<br />
+<br />
+任职要求：<br />
+1.医药或物流管理相关专业，本科以上学历。<br />
+2.一年以上采购经验。<br />
+<br />
+员工福利：入职购买五险一金；充足的培训；节日福利；员工活动丰富；出国机会。<br />
+<br />
+公司介绍：<br />
+康美药业股份有限公司（600518）成立于1997年，于2001年在上交所上市，是国内率先把互联网布局中医药全产业链，全面打造“大健康+大平台+大数据+大服务”体系的中医药全产业链精准服务型“智慧+大健康产业”大型上市企业，国家高新技术企业。公司现有总资产584亿元，净资产302亿元，近三年纳税约46亿元。位列中国企业500强、全球企业2000强、广东纳税百强，是上证50成份指数股，也是国内资本市场率先突破千亿市值的医药企业。<br />
+&#160;&#160;&#160;&#160;<br />
+康美药业广州分公司是康美股份有限公司的全资子公司，成立于1999年，多年来，秉承“学术先行、精耕细作、逐步推进、树立品牌”的作风和销售理念，负责康美自产药品、中药饮片及中药单品的医院渠道销售,代理产品（中医药）的临床推广及物流配送业务。推广区域以广东、福建为核心，扩展至华南、西南乃至全国地区。依托康美药业雄厚政府事务能力及经济实力，多方式、多层次与药品生产厂家合作，代理其产品，同时大力拓展中药饮片业务。多年来我们致力于吸引优秀的医药专业人才，组建专业的药品营销团队，搭建专业而系统的药品营销策划和执行体系；在广东乃至华南地区已具备一定的口碑和影响力。</p>
+           
+            <img src="http://zp.kangmei.com.cn/images/sq.png" width="100" height="32" border="0" usemap="#Map" style="margin-right:20px;" />
+            <map name="Map" id="Map">
+              <area shape="rect" coords="-2,0,102,35" href="http://zp.kangmei.com.cn/cv_easy/cv_log.php?jobid=(96991890)" />
+            </map>
+            <img src="http://zp.kangmei.com.cn/images/tj.png" width="100" height="32" border="0" usemap="#Map3" />
+            <map name="Map3" id="Map3">
+              <area shape="rect" coords="-2,1,98,35" href="http://zp.kangmei.com.cn/cv/sendjob_tofriend.php?jobid=96991890" />
+            </map>
+<div>
+  
+</div>
+        </div> 
+      					 
+        <div class="main_bottom"></div>
+ </div>
+      <div class="foot"><img src="http://zp.kangmei.com.cn/images/hand.gif" width="15" height="20" align="absmiddle" /> 未经51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有&copy;1999-
+        <script language="JavaScript" type="text/javascript">var now = new Date();var year = now.getYear();if (year < 2000) year = year + 1900;document.write(year);</script>
+      </div>
+    </div>
+
+</button.automatical>
+<script type="text/javascript">
+<!--
+swfobject.registerObject("FlashID");
+//-->
+</script>
+</body>
+  <map name="MapMap" id="MapMap">
+      <area shape="rect" coords="228,-2,336,36" href="http://zp.kangmei.com.cn/index.php" />
+      <area shape="rect" coords="388,0,514,39" href="http://zp.kangmei.com.cn/job.php" />
+      <area shape="rect" coords="712,-2,833,38" href="http://www.kangmei.com.cn"  target="_blank"/ />
+      <area shape="rect" coords="555,3,663,34" href="http://zp.kangmei.com.cn/xy.php" />
+    </map>
+     <map name="Map2" id="Map2">
+          <area shape="rect" coords="20,528,175,556" href="http://zp.kangmei.com.cn/job.php#2632760"  title="康美（北京）药业有限公司"/>
+          <area shape="rect" coords="19,565,183,591" href="http://zp.kangmei.com.cn/job.php#2632741"  title="康美新开河（吉林）药业有限公司"/>
+          <area shape="rect" coords="27,603,172,629" href="http://zp.kangmei.com.cn/job.php#2632722"  title="康美（亳州）世纪国药中药有限公司"/>
+          <area shape="rect" coords="20,495,179,521" href="http://zp.kangmei.com.cn/job.php#2632789"  title="成都康美药业有限公司"/>
+          <area shape="rect" coords="19,456,178,482" href="http://zp.kangmei.com.cn/job.php#2632825"  title="康美药业股份有限公司北京分公司"/>
+            <area shape="rect" coords="19,420,178,446" href="http://zp.kangmei.com.cn/job.php#2632854"  title="成都康美药业生产有限公司"/>
+            <area shape="rect" coords="20,384,179,410" href="http://zp.kangmei.com.cn/job.php#2634832"  title="广东康美通信息服务有限公司"/>
+            <area shape="rect" coords="16,345,175,371" href="http://zp.kangmei.com.cn/job.php#2643067"  title="康美保宁（四川）制药有限公司"/>
+            <area shape="rect" coords="16,309,175,335" href="http://zp.kangmei.com.cn/job.php#2665591"  title="广东康美之恋大药房有限公司"/>
+            <area shape="rect" coords="17,272,176,298" href="http://zp.kangmei.com.cn/job.php#2720552"  title="康美（普宁）中药材专业市场物业管理有限公司"/>
+            <area shape="rect" coords="18,235,177,261" href="http://zp.kangmei.com.cn/job.php#2863508"  title="康美（亳州）饮片厂"/>
+            <area shape="rect" coords="17,200,176,226" href="http://zp.kangmei.com.cn/job.php#2939370"  title="康美（深圳）电子商务公司"/>
+            <area shape="rect" coords="15,163,174,189" href="http://zp.kangmei.com.cn/job.php#3037414"  title="广东康美物流有限公司"/>
+            <area shape="rect" coords="15,127,174,153" href="http://zp.kangmei.com.cn/job.php#3214233"  title="康美药业股份有限公司广州第一分公司"/>
+            <area shape="rect" coords="19,89,178,115" href="http://zp.kangmei.com.cn/job.php#3278970" title="广东康美药业有限公司" />
+            <area shape="rect" coords="18,52,177,78" href="http://zp.kangmei.com.cn/job.php#3477340"  title="康美（北京）药物研究院有限公司"/>
+            <area shape="rect" coords="16,13,175,39" href="http://zp.kangmei.com.cn/job.php#2368150" title="康美药业股份有限公司"/>
+                
+          <area shape="rect" coords="21,787,176,815" href="http://zp.kangmei.com.cn/job.php#2632523"  title="康美药业股份有限公司广州分公司"/>
+          <area shape="rect" coords="24,751,185,779" href="http://zp.kangmei.com.cn/job.php#2632543"  title="康美（亳州）世纪国药有限公司"/>
+          <area shape="rect" coords="23,718,179,742" href="http://zp.kangmei.com.cn/job.php#2632665"  title="康美药业股份有限公司上海分公司"/>
+          <area shape="rect" coords="22,677,172,708" href="http://zp.kangmei.com.cn/job.php#2632677"  title="上海美峰食品有限公司"/>
+          <area shape="rect" coords="24,641,169,668" href="http://zp.kangmei.com.cn/job.php#2632684"  title="上海金像食品有限公司"/>
+       <area shape="rect" coords="20,827,174,855" href="http://zp.kangmei.com.cn/job.php#2632300"  title="康美人生	深圳市康美人生医药有限公司"/>
+ 
+      
+          </map>
+</html>  
+  

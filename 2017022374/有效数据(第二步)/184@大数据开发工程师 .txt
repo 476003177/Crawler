@@ -1,0 +1,26 @@
+大数据开发工程师 
+Big Data Engineer 大数据工程师 ?C Solution POC
+Location: Guangzhou or Shenzhen
+
+Job description
+?	Good working knowledge of at least 2 of the following topics:
+？	DB development: MySQL(PostgreSQL), NoSQL(MongoDB)
+？	Big data framework: Storm, Spark and others.
+?	Deep knowledge of Hadoop ecosystem (HDFS, MapReduce, HBase, Hive)
+?	Familiar with common Machine Learning algorithm in Data Mining domain
+?	Familiar with ETL
+?	Self-driven and make-it-happen personality
+?	Good English spoken and written skills. You will need to be able to work in a bilingual environment.
+?	Major in Math or Computer Science
+
+岗位要求
+?	能够使用Python或者Java熟练的进行开发，拥有Shell、AWK等语言经验优先。
+?	至少有下面两个主题的实际项目经验：
+？	使用关系数据库（MySQL，PostgreSQL）或者非关系型数据库(MongoDB）开发和调优经验。
+？	Storm，Spark等框架实际项目经验
+?	有Hadoop生态系统（HDFS，MapReduce，HBase，Hive等）开发经验
+?	对Machine learning &amp; Data mining常用方法有一定的理解
+?	对ETL方法有一定的理解
+?	自我驱动，结果导向的特性。
+?	优秀的英语说写能力，您必须能够在双语环境中工作。
+?	获得计算机或数学专业本科学位

@@ -1,0 +1,5 @@
+计算机科学：编程、计算机科学、专业背景、处理大数据、Hadoop、Mahout、并行处理、机器学习、脚本、Python、PHP、Java、MapReduce、Hive、Pig
+数学、统计、数据挖掘等：数学、统计、SPSS、SAS、CRAN、数据、Matlab
+数据可视化：图表、地图、Dashboard、可视化、信息图
+经验：工作经验
+学历：硕士、博士、本科

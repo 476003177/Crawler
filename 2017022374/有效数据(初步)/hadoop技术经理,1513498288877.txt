@@ -1,0 +1,15 @@
+hadoop技术经理
+岗位职责：
+1、配合大数据项目架构、落地大数据应用技术；
+2、大数据应用平台的搭建及常见问题的解决、性能调优；
+3、负责hadoop/Hive/Hbase/spark设计和实现。
+4、构建数据的监测与分析体系；
+
+岗位要求：
+1、2年以上Hadoop/Hive/Hbase/Spark/Strom工作经验，有MR开发和分析经验,有1~2个大数据项目的实战经验；
+2、熟悉&#160;Hadoop/Hive/Hbase&#160;原理及运维、调优方法;
+3、有3~5年java开发经验，熟悉使用spring多个组件，如srping-boot,spring-cloud,spring-data等;
+4、有数据库使用经验，如MySql、Oracle、SQL&#160;Server、HBase等；
+5、熟悉linux开发环境，能够熟练使用shell等脚本;
+6、具备良好的表达和沟通能力，有钻研精神，对大数据充满热情，有团队合作精神。
+7、有财务系统数据分析经验优先;

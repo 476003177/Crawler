@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=1593&guid=&dType=1&jobId=91399807&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>【无限极招聘，求职】无限极前程无忧官方招聘网站</title>
+<META content="<button.description>" name="description">
+<META content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<link rel="stylesheet" href="http://infinitus.51job.com/css/style.css">
+</head>
+
+<body>
+    <div class="warp">
+    <!--header部分-->
+    	<div class="header">
+        	<div class="menu">
+            	<a class="scoll_l" href="http://infinitus.51job.com/index.php">首页</a>
+            	<a href="http://infinitus.51job.com/about.php">企业介绍</a>
+            	<a href="http://infinitus.51job.com/wenhua.php">企业文化</a>
+            	<a href="http://infinitus.51job.com/linian.php">健康理念</a>
+            	<a href="http://infinitus.51job.com/honor.php">企业荣誉 </a>
+            	<a href="http://infinitus.51job.com/zeren.php">社会责任</a>
+            	<a style="border-bottom:1px solid #d80523;" href="http://infinitus.51job.com/job.php">社会招聘</a>
+            </div>
+        </div>
+       <!-- 内容部分-->
+       <div class="container">
+       <!--下拉选项搜索框部分-->
+		<form name="quicksearch" method="post" action="http://infinitus.51job.com/sc/job_list.php?begin=begin">
+	<input type="hidden" name="keywordtype" value="2" />
+	   <div class="db_list">
+	   <b style="font-size:14px; float:left; padding-top:8px;" >职位搜索：</b>
+				<select name="jobarea" class="list_d" style="margin-left:5px;">
+					<option selected value ="0000">请选择工作地点</option>
+					<option value="030200" title="广州">广州</option>
+<option value="030204" title="广州-天河区">广州-天河区</option>
+<option value="031500" title="江门">江门</option>
+<option value="050300" title="天津-河西区">天津-河西区</option>
+<option value="080203" title="杭州-下城区">杭州-下城区</option>
+<option value="090201" title="成都-青羊区">成都-青羊区</option>
+<option value="110205" title="福州-晋安区">福州-晋安区</option>
+<option value="120202" title="济南-市中区">济南-市中区</option>
+<option value="170204" title="郑州-金水区">郑州-金水区</option>
+<option value="200206" title="西安-雁塔区">西安-雁塔区</option>
+<option value="240201" title="长春-朝阳区">长春-朝阳区</option>
+<option value="260200" title="贵阳">贵阳</option>
+<option value="290200" title="银川">银川</option>
+<option value="310200" title="乌鲁木齐">乌鲁木齐</option>
+<option value="320000" title="青海省">青海省</option>
+				</select>
+			   
+				<select name="funtype" class="list_d">
+					<option selected value ="0000">请选择工作类别</option>
+					<option value="0100" title="计算机软件">计算机软件</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0107" title="--软件工程师">--软件工程师</option>
+<option value="0108" title="--数据库工程师/管理员">--数据库工程师/管理员</option>
+<option value="0142" title="--其他">--其他</option>
+<option value="0147" title="--需求工程师">--需求工程师</option>
+<option value="0148" title="--算法工程师">--算法工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0226" title="--区域销售经理">--区域销售经理</option>
+<option value="0235" title="--大客户管理">--大客户管理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0302" title="--市场/营销/拓展经理">--市场/营销/拓展经理</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0307" title="--产品/品牌主管">--产品/品牌主管</option>
+<option value="0310" title="--促销经理">--促销经理</option>
+<option value="0324" title="--市场分析/调研人员">--市场分析/调研人员</option>
+<option value="0329" title="--其他">--其他</option>
+<option value="0330" title="--产品/品牌专员">--产品/品牌专员</option>
+<option value="0335" title="--市场通路专员">--市场通路专员</option>
+<option value="0336" title="--市场企划经理/主管">--市场企划经理/主管</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0414" title="--出纳员">--出纳员</option>
+<option value="0422" title="--财务助理/文员">--财务助理/文员</option>
+<option value="0449" title="--资金经理/主管">--资金经理/主管</option>
+<option value="0450" title="--资金专员">--资金专员</option>
+<option value="0500" title="工程/机械/能源">工程/机械/能源</option>
+<option value="0511" title="--技术研发工程师">--技术研发工程师</option>
+<option value="0515" title="--工程/设备工程师">--工程/设备工程师</option>
+<option value="0544" title="--机电工程师">--机电工程师</option>
+<option value="0561" title="--结构工程师">--结构工程师</option>
+<option value="0584" title="--项目管理">--项目管理</option>
+<option value="0585" title="--空调/热能工程师">--空调/热能工程师</option>
+<option value="0800" title="物流/仓储">物流/仓储</option>
+<option value="0814" title="--物流专员/助理">--物流专员/助理</option>
+<option value="0900" title="艺术/设计">艺术/设计</option>
+<option value="0927" title="--包装设计">--包装设计</option>
+<option value="1000" title="科研">科研</option>
+<option value="1001" title="--科研人员">--科研人员</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1102" title="--法务主管/专员">--法务主管/专员</option>
+<option value="1103" title="--律师助理">--律师助理</option>
+<option value="1106" title="--法务经理">--法务经理</option>
+<option value="1107" title="--法务助理">--法务助理</option>
+<option value="1110" title="--合规主管/专员">--合规主管/专员</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1407" title="--情报信息分析人员">--情报信息分析人员</option>
+<option value="1900" title="其他">其他</option>
+<option value="1901" title="--其他">--其他</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2600" title="IT-管理">IT-管理</option>
+<option value="2606" title="--项目经理">--项目经理</option>
+<option value="2607" title="--项目主管">--项目主管</option>
+<option value="2608" title="--项目执行/协调人员">--项目执行/协调人员</option>
+<option value="2900" title="电子/电器/半导体/仪器仪表">电子/电器/半导体/仪器仪表</option>
+<option value="2908" title="--自动控制工程师/技术员">--自动控制工程师/技术员</option>
+<option value="2913" title="--家用电器/数码产品研发">--家用电器/数码产品研发</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3012" title="--销售助理">--销售助理</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3103" title="--商务经理">--商务经理</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3203" title="--客服主管">--客服主管</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3206" title="--售前/售后技术支持主管">--售前/售后技术支持主管</option>
+<option value="3208" title="--咨询热线/呼叫中心服务人员">--咨询热线/呼叫中心服务人员</option>
+<option value="3211" title="--投诉专员">--投诉专员</option>
+<option value="3213" title="--网络/在线客服">--网络/在线客服</option>
+<option value="3900" title="采购">采购</option>
+<option value="3903" title="--采购主管">--采购主管</option>
+<option value="3909" title="--供应商开发">--供应商开发</option>
+<option value="4100" title="生物/制药/医疗器械">生物/制药/医疗器械</option>
+<option value="4101" title="--生物工程/生物制药">--生物工程/生物制药</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4301" title="--公关经理">--公关经理</option>
+<option value="4302" title="--公关主管">--公关主管</option>
+<option value="4308" title="--媒介主管">--媒介主管</option>
+<option value="4309" title="--媒介专员">--媒介专员</option>
+<option value="4313" title="--活动策划">--活动策划</option>
+<option value="4400" title="影视/媒体">影视/媒体</option>
+<option value="4402" title="--导演/编导">--导演/编导</option>
+<option value="4500" title="编辑出版">编辑出版</option>
+<option value="4502" title="--编辑">--编辑</option>
+<option value="4503" title="--记者">--记者</option>
+<option value="4700" title="物业管理">物业管理</option>
+<option value="4706" title="--物业维修员">--物业维修员</option>
+<option value="4708" title="--物业机电工程师">--物业机电工程师</option>
+<option value="4714" title="--物业管理主管">--物业管理主管</option>
+<option value="5000" title="美容保健">美容保健</option>
+<option value="5016" title="--美容培训师/导师">--美容培训师/导师</option>
+<option value="5500" title="化工">化工</option>
+<option value="5501" title="--化工技术应用/化工工程师">--化工技术应用/化工工程师</option>
+<option value="5506" title="--化妆品研发">--化妆品研发</option>
+<option value="5507" title="--食品/饮料研发">--食品/饮料研发</option>
+<option value="5508" title="--其他">--其他</option>
+<option value="5700" title="培训">培训</option>
+<option value="5702" title="--培训讲师">--培训讲师</option>
+<option value="5703" title="--培训策划">--培训策划</option>
+<option value="5704" title="--培训助理">--培训助理</option>
+<option value="5706" title="--培训/课程顾问">--培训/课程顾问</option>
+<option value="5707" title="--培训产品开发">--培训产品开发</option>
+<option value="5900" title="汽车销售与服务">汽车销售与服务</option>
+<option value="5902" title="--售后服务/客户服务">--售后服务/客户服务</option>
+				</select>
+				<select name="issuedate" class="list_d">
+					<option selected value ="0000">请选择职位发布时间</option>
+					<OPTION VALUE=01>近一天</OPTION><OPTION VALUE=02>近二天</OPTION><OPTION VALUE=03>近三天</OPTION><OPTION VALUE=07>近一周</OPTION><OPTION VALUE=14>近两周</OPTION><OPTION VALUE=30>近一月</OPTION><OPTION VALUE=42>近六周</OPTION><OPTION VALUE=60>近两月</OPTION>				</select>
+				<input name="keyword" value="输入职位关键字" type="text"  onfocus="javascript:clearfield(this)" class="bbbad"/>
+			
+			<button type="submit" class="search" ></button>
+	   </div>
+</form>
+<script language="javascript">
+  function clearfield(obj)
+    {
+    if (obj.value == "输入职位关键字")
+        obj.value = "";
+    }
+</script>
+           </div>
+       <div style="clear:both;"></div>
+       <div class="miaoshu_con">
+			       		<h1><span>职位详情</span></h1>
+            <h1 style="color:#d80523; background:none; margin-left:35px; font-size:18px;">高级开发工程师</h1>
+            <div class="d_miao">
+                    <p>工作地点： 广州</p>
+                    <p>招聘人数： 1人</p>
+                    <p>发布时间： 2017-12-15 </p>
+                    工作职责：<br />
+1、从事前沿技术研究工作，在各业务场景中尝试实施创新技术；<br />
+2、算法研究和实施，例如文本分类、语义理解、商品推荐、搜索排序等等；<br />
+3、参与重要模块的详细设计，控制质量；负责重要技术问题的攻关，系统优化；<br />
+4、负责日常维护性开发工作，主要包括：根据业务需求变更进行的相关开发工作；<br />
+<br />
+职位要求：<br />
+1、计算机、统计、数学等相关专业，本科及以上学历，七年以上相关工作经验；<br />
+2、熟悉主流开源框架的使用，如Spring、SpringMVC、MyBatis等（熟悉Spring原理，对开源框架dubbo,zookeeper有实际应用经验者优先）；<br />
+3、理解自然语言处理、机器学习、电商搜索，推荐系统，用户数据分析和建模的基本概念和常用方法，有相关领域的实际项目研发或者实习经历者优先；<br />
+4、熟悉Hadoop、Hive、Spark、Stream等大数据处理平台和工具者优先                    <br /><br /><br />
+                    <a href="http://infinitus.51job.com/sc/cv_log.php?jobid=(91399807)">立即申请</a>
+            </div>
+            	
+         
+			 		 <br /><br /><br />    
+        </div>
+            <div id="copyright"><img src="http://infinitus.51job.com/images/hand.gif" width="20" height="20" />未经51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有&copy;1999-
+    <SCRIPT LANGUAGE="JavaScript">var now = new Date();var year = now.getYear();if (year < 2000) year = year + 1900;document.write(year);</script>
+    		</div>
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=3381734&guid=&dType=1&jobId=91699389&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="gb2312" />
+	<!-- 制作人信息 -->
+	<!--PM:[王炜] Designer:[***] Developer:[刘梦] date:20170810-->
+	<title>卓越教育●优学事业部</title>
+	<meta content=" 广州卓越教育集团招聘 前程无忧官方网站，提供最新 广州卓越教育集团招聘职位，校园招聘信息， 广州卓越教育集团面试技巧等。帮助您顺利踏入广州卓越教育集团的大门，与众多广州卓越教育集团精英们开启一段崭新的职业生涯。" name="description">
+	<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="robots" content="all" />
+	<meta name="viewport" content="width=1280">
+	<meta http-equiv="cache-control" content="no-siteapp">
+	<meta name="render" content="webkit|ie-comp|ie-stand">
+	<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+	<meta name="author" content="yuanXu">
+	<!-- 引入 css -->
+	<link rel="stylesheet" href="http://zy.51job.com//css/reset.css" />
+	<link rel="stylesheet" href="http://zy.51job.com//css/style.css" />
+	<link rel="stylesheet" href="http://zy.51job.com//css/index.css" />
+	<script type="text/javascript">
+	    var domain_login = 'http://my.51job.com/partner/cooperate/applyjob.php';
+	</script>
+	<style>
+	    form[name='fResumeBase']     
+	    {
+	       margin-left: 200px;
+	       font-size:14px;
+	    }
+	    form[name='fResumeBase'] select     
+	    {
+	       border:solid 1px;
+	    }
+		form[name='fResumeBase'] td
+	    {
+	       background-color:#FFFFFF;
+	    }
+	    form[name='fResumeOther'] 	
+	    {
+	       margin-left: 200px;
+	       font-size:14px;
+	    }
+	    form[name='fResumeOther'] select     
+	    {
+	       border:solid 1px;
+	    }
+		 form[name='fResumeOther'] td
+	    {
+	       background-color:#FFFFFF;
+	    }
+	    form[name='fResumeFinish'] 	
+	    {
+	       margin-left: 200px;
+	       font-size:14px;
+	    }
+		 form[name='fResumeFinish'] td
+	    {
+	       background-color:#FFFFFF;
+	    }
+	    form[name='freshlist'] 		
+	    {
+	       margin-left: 430px;
+	    }
+		form[name='freshlist'] 	a	
+	    {
+	       display:inline-block;
+	    }
+	</style>
+</head>
+<body>
+	<!-- top s -->
+	<div class="top">
+		<div class="logo"><img src="http://zy.51job.com//img/logo.png" style="width: 235px;height: 39px;"></div>
+		<div class="nav">
+			<ul>
+				<li>
+					<a href="http://zy.51job.com//index.php"  >首页</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//sc/job_list.php" 
+					class="current-a">社会招聘</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//sc/campus_job_list.php" 
+					>校园招聘</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//zy-student.php"  >管理培训生</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//zy-work.php"  >职场卓越生</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//zy-info.php"  >了解卓越</a>
+				</li>
+				<li>
+					<a href="http://zy.51job.com//contact.php"  >联系我们</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- top e-->
+	<!-- banner s -->
+	<div class="banner">
+		<ul>
+			<li><a href="http://zy.51job.com//sc/job_list.php"><img src="http://zy.51job.com//img/banner.jpg"></a></li>
+			<li><a href="http://zy.51job.com//sc/campus_job_list.php"><img src="http://zy.51job.com//img/banner-3.jpg"></a></li>
+			<li><a href="http://zy.51job.com//zy-student.php"><img src="http://zy.51job.com//img/banner-1.jpg"></a></li>
+			<li><a href="http://zy.51job.com//zy-work.php"><img src="http://zy.51job.com//img/banner-2.jpg"></a></li>
+		</ul>
+	</div>
+	<!-- banner e -->
+
+	
+<!-- content s -->
+<div class="content">
+	<div class="title"><img src="http://zy.51job.com//img/
+	title.png"></div>
+	<!-- 搜索框 s -->
+<div class="job-search">
+	<form action="http://zy.51job.com//sc/job_list.php?begin=begin" method="post" name="quicksearch">
+		<input type="hidden" name="keywordtype" value="2" />
+		<div class="search-term">
+			<div class="term-place">
+				<span>地区：</span>
+				<select name="jobarea">
+					<option value="0000">请选择地区</option>
+					<option value="020000" title="上海">上海</option>
+<option value="030200" title="广州">广州</option>
+<option value="030201" title="广州-越秀区">广州-越秀区</option>
+<option value="030203" title="广州-海珠区">广州-海珠区</option>
+<option value="030208" title="广州-花都区">广州-花都区</option>
+<option value="030211" title="广州-增城">广州-增城</option>
+<option value="030500" title="珠海">珠海</option>
+<option value="030600" title="佛山">佛山</option>
+<option value="030700" title="中山">中山</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="140200" title="南宁">南宁</option>
+				</select>
+			</div>
+			<div class="term-func">
+				<span>职能：</span>
+				<select name="funtype">
+					<option value="0000">请选择职能</option>
+					<option value="0200" title="销售管理">销售管理</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0231" title="--其他">--其他</option>
+<option value="0232" title="--业务拓展主管/经理">--业务拓展主管/经理</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0302" title="--市场/营销/拓展经理">--市场/营销/拓展经理</option>
+<option value="0303" title="--市场/营销/拓展主管">--市场/营销/拓展主管</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0307" title="--产品/品牌主管">--产品/品牌主管</option>
+<option value="0329" title="--其他">--其他</option>
+<option value="0336" title="--市场企划经理/主管">--市场企划经理/主管</option>
+<option value="0337" title="--市场企划专员">--市场企划专员</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0422" title="--财务助理/文员">--财务助理/文员</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0602" title="--人事经理">--人事经理</option>
+<option value="0603" title="--人事主管">--人事主管</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0605" title="--人事助理">--人事助理</option>
+<option value="0606" title="--招聘经理/主管">--招聘经理/主管</option>
+<option value="0607" title="--薪资福利经理/主管">--薪资福利经理/主管</option>
+<option value="0608" title="--薪资福利专员/助理">--薪资福利专员/助理</option>
+<option value="0609" title="--培训经理/主管">--培训经理/主管</option>
+<option value="0626" title="--招聘专员/助理">--招聘专员/助理</option>
+<option value="0627" title="--绩效考核经理/主管">--绩效考核经理/主管</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0705" title="--总监/部门经理">--总监/部门经理</option>
+<option value="1200" title="教师">教师</option>
+<option value="1201" title="--中学教师">--中学教师</option>
+<option value="1202" title="--院校教务管理人员">--院校教务管理人员</option>
+<option value="1204" title="--讲师/助教">--讲师/助教</option>
+<option value="1206" title="--其他">--其他</option>
+<option value="1207" title="--幼教">--幼教</option>
+<option value="1209" title="--小学教师">--小学教师</option>
+<option value="1213" title="--校长">--校长</option>
+<option value="1215" title="--外语培训师">--外语培训师</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1401" title="--专业顾问">--专业顾问</option>
+<option value="1403" title="--咨询经理">--咨询经理</option>
+<option value="1404" title="--咨询员">--咨询员</option>
+<option value="1405" title="--其他">--其他</option>
+<option value="1406" title="--专业培训师">--专业培训师</option>
+<option value="1700" title="储备干部/培训生/实习生">储备干部/培训生/实习生</option>
+<option value="1701" title="--培训生">--培训生</option>
+<option value="1702" title="--储备干部">--储备干部</option>
+<option value="1703" title="--实习生">--实习生</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2305" title="--前台接待/总机/接待生">--前台接待/总机/接待生</option>
+<option value="2306" title="--后勤">--后勤</option>
+<option value="2500" title="互联网/电子商务/网游">互联网/电子商务/网游</option>
+<option value="2501" title="--互联网软件开发工程师">--互联网软件开发工程师</option>
+<option value="2513" title="--网站维护工程师">--网站维护工程师</option>
+<option value="2516" title="--网站运营专员">--网站运营专员</option>
+<option value="2524" title="--SEO/SEM">--SEO/SEM</option>
+<option value="2525" title="--产品经理/主管">--产品经理/主管</option>
+<option value="2533" title="--网络推广经理/主管">--网络推广经理/主管</option>
+<option value="2534" title="--网络推广专员">--网络推广专员</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3005" title="--电话销售">--电话销售</option>
+<option value="3007" title="--其他">--其他</option>
+<option value="3010" title="--网络/在线销售">--网络/在线销售</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3108" title="--业务分析经理/主管">--业务分析经理/主管</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3210" title="--客户关系经理/主管">--客户关系经理/主管</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3505" title="--营运经理">--营运经理</option>
+<option value="3506" title="--营运主管">--营运主管</option>
+<option value="4200" title="广告">广告</option>
+<option value="4207" title="--文案/策划">--文案/策划</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4308" title="--媒介主管">--媒介主管</option>
+<option value="4309" title="--媒介专员">--媒介专员</option>
+<option value="4310" title="--公关/媒介助理">--公关/媒介助理</option>
+<option value="4313" title="--活动策划">--活动策划</option>
+<option value="5700" title="培训">培训</option>
+<option value="5701" title="--培训督导">--培训督导</option>
+<option value="5702" title="--培训讲师">--培训讲师</option>
+<option value="5703" title="--培训策划">--培训策划</option>
+<option value="5706" title="--培训/课程顾问">--培训/课程顾问</option>
+<option value="5707" title="--培训产品开发">--培训产品开发</option>
+ 
+				</select>
+			</div>
+			<div class="term-company">
+				<span>发布时间：</span>
+				<select name="issuedate">
+					<option value="0000">请选择发布时间</option>
+					<OPTION VALUE=01>近一天</OPTION><OPTION VALUE=02>近二天</OPTION><OPTION VALUE=03>近三天</OPTION><OPTION VALUE=07>近一周</OPTION><OPTION VALUE=14>近两周</OPTION><OPTION VALUE=30>近一月</OPTION><OPTION VALUE=42>近六周</OPTION><OPTION VALUE=60>近两月</OPTION>				</select>
+			</div>
+		</div>
+		<div class="search-text">
+			<input type="text" name="keyword" value="输入职位关键字" onfocus="javascript:clearfield(this)" onblur= "javascript:clearfield(this)" class="job-name"/>
+			<a href="javascript:void(0);" onclick="document.quicksearch.submit();"><input  type="button"  value="立即搜索" class="job-button"/></a>
+		</div>
+	</form>
+</div>
+<!-- 搜索框 e-->
+<script type="text/javascript">
+    function clearfield(obj)
+    {
+        if (obj.value == '')
+        {
+            obj.value = '输入职位关键字';
+        }
+        else if (obj.value == '输入职位关键字')
+        {
+            obj.value = '';
+        }
+    }
+</script>	<!-- 职位详情 s -->
+	<div class="zy-campus">
+	<h5>卓越分校</h5>
+		
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4486961">优学事业部总部</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497160">广州分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497162">深圳分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497172">上海分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497165">珠海分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497168">佛山分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497163">中山分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4497170">东莞分校</a></p>
+	<p><a href="http://zy.51job.com//sc/job_list.php?company=4803335">南宁分校</a></p>
+
+		
+	
+</div>	<div class="job-details">
+					<h5><b>职位名称:</b>招聘主管/经理</h5>
+				<h4>职位基本信息：</h4>
+				<div class="job-info">
+					<p>所属公司： 卓越教育集团优学事业总部</p>
+					<p>职位类别： 招聘经理/主管</p>
+					<p>所属部门： -</p>
+					<p>招聘人数： 1</p>
+					<p>工作地点： 广州-越秀区</p>
+					<p>工作年限： 3-4年</p>
+					<p>发布日期： 2017-12-15</p>
+				</div>
+				<div class="job-duty">
+					<h6>工作职责：</h6>
+					岗位职责:<br />
+1、负责全国雇主品牌开拓与维护、校园招聘项目、社会招聘项目。<br />
+2、与用人部门沟通架构职责、用人需求模型，推动总部核心岗位的招聘进度。<br />
+3、外部供应商管理、招聘大数据分析，推动招聘体系优化。<br />
+4、了解业务战略并促进人力资源战略的有效规划和实施；<br />
+5、为业务部门提供强有力的人员供给以及搭建人员梯队；<br />
+6、关注业务部门各类组织、层级、人员配置合理性，协助组织架构调整，并提出有效合理的建议等。<br />
+任职资格:<br />
+1、熟练运用各种招聘工具和手段，熟练使用各种招聘渠道；<br />
+2、本科或以上学历，有良好的人才甄选能力及面试技巧，人力资源管理或相关专业毕业优先；<br />
+3、3年以上总部人力资源工作经验，有教育或互联网行业经验者优先考虑；<br />
+4、具有亲和力、较强的责任心，执行能力、组织协调及沟通能力。				</div>
+				<div class="details-button">
+					<a href="http://zy.51job.com//cv_easy/cv_log.php?jobid=91699389 " class="apply">立即申请</a>
+					<a href="http://zy.51job.com//sc/job_list.php" class="return-jobList"><img src="http://zy.51job.com//img/return.png"></a>
+				</div>
+				
+		</div>
+	<!-- 职位详情 e-->
+</div>
+<!-- content e -->
+
+		<!-- footer start -->
+		<div class="footer">
+    		<img src="http://zy.51job.com//img/hand.png"  style="width: 16px;height: 22px;" />未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有&copy;<span style="font-family:Arial">1999-
+    		<script language="JavaScript">var nowD = new Date();var year = nowD.getFullYear();document.write(year);</script></span>
+		</div>
+		<!-- footer end -->
+
+		<!-- 引入js -->
+		<script type="text/javascript" src="http://zy.51job.com//js/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="http://zy.51job.com//js/ImagesSwitch.js"></script>
+		<script type="text/javascript" src="http://zy.51job.com//js/index.js"></script>
+		<script type="text/javascript" src="http://zy.51job.com//js/com.js"></script>
+	</body>
+
+</html> 

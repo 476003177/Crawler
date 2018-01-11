@@ -1,0 +1,14 @@
+Hadoop大数据工程师
+1.熟悉Linux常用命令，能编写较为复杂的Shell脚本；
+2.熟悉Hadoop、Hive、Hbase等大数据技术；
+3.熟悉JAVA开发语言；
+4.熟悉Spring、Mybatis等相关JAVA开发框架者优先。
+熟悉Mysql、Oracle等
+
+任职资格：
+1.有一年以上数据处理工作经验；
+2.有JAVA相关开发经验；
+3.有Hadoop、Hive、Hbase相关开发经验者优化考虑；
+4.有Mysql、Oracle等主流数据库相关经验；
+5.良好的逻辑思维能力，良好的逻辑判断能力、沟通协调能力；
+6.具有较强的工作责任心和团队合作精神，能承受工作压力。

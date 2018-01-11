@@ -1,0 +1,16 @@
+java开发工程师（大数据方向）
+主要职责：
+1.负责核心模块功能开发；
+2.负责产品性能及数据库调优；
+3.负责架构优化及代码；
+4.负责相关文档的编写。
+岗位要求：
+1.大专及以上学历，3年java开发经验，有大数据开发经验者佳（Hadoop spark）；
+2.熟练掌握JAVA技术、熟练面向对象编程设计；
+3.拥有良好的代码习惯，结构清晰，命名规范，逻辑性强；
+4.熟练掌握Java、JSP、Javascript、HTML语言；
+5.熟悉J2EE、Struts、Spring、Hibernate、AJAX、XML等架构和技术；
+6.熟悉Eclipse、JUnit、UML等开发工具；
+7.有主流数据使用经验，如MySql、DB2、Oracle、SQL Server等；
+8.熟悉Linux环境、熟悉WebSphere、JBoss、Tomcat等Web Service环境；
+9.具有良好的沟通协调能力和较强的执行力。

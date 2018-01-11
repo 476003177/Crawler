@@ -1,0 +1,18 @@
+大数据开发工程师
+【岗位职责】
+1、负责基于Hadoop/Spark生态系统的研发；
+2、负责基于搜索引擎（ElasticSearch）的产品研发；
+3、负责Hadoop/Spark集群调优；
+4、参与海量数据处理和高性能分布式计算的架构设计，负责数据处理流程的设计和代码开发，撰写相关文档。
+5、研究大数据技术领域最新进展，并应用到业务中
+
+
+【任职要求】
+1、大学本科或以上学历，计算机相关专业，spark/hadoop全栈优先，精通任意一栈者也可；
+2、使用hadoop及hadoop生态圈中的常用组件，如Spark、Hive、zookeeper、Sqoop、Flume、Kafka、Storm、Redis、Spark、Yarn、Impala、HBase、Presto、solr 等全部或者部分组件,最好精通其中1-2个
+3、熟练掌握java 或scala语言，熟悉并行计算或者分布式计算，理解MapReduce、HDFS原理、spark RDD/DataFrame原理。
+4、拥有实际的Hadoop/spark的项目经验，具有相关系统的调优、运维、开发经验。
+5、熟悉linux开发环境；熟练掌握python、shell中的一种；
+6、有hadoop / Spark调优、统计建模知识的优先；
+7、熟悉ElasticSearch、Lucene优先；
+8、能够读懂英文文档。

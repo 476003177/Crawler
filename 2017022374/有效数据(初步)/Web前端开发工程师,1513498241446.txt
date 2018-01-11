@@ -1,0 +1,7 @@
+Web前端开发工程师
+1.大学本科及以上学历，计算机或相关专业；
+2.2年以上JAVA前端开发经验，精通HTML/XHTML、CSS、JavaScript、Ajax、bootstrap，至少精通一种前端框架JQuery、easyui；
+3.熟悉we可视化的数据界面开发，至少精通go.js,d3.js,zoomcharts.js, echarts.js之中的一种。
+4.能解决常见浏览器的兼容性问题，熟悉IE、Firefox、Chome等主流浏览器的常见兼容性问题，并有可行的解决办法；
+5.了解web版类似excel的表格控件。
+6.能优化Web前端性能，了解业界的前端性能优化建议，并可在项目中实施；

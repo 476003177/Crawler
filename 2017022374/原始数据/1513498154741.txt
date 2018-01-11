@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=257960&guid=&dType=1&jobId=90499298&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!--images No.1-37002639.JPG；CD-M131332.jpg；CD-ZZ005018.jpg-->
+<!--images of client--> 
+<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>【杭州华三通信技术有限公司招聘，求职】杭州华三通信技术有限公司前程无忧官方招聘网站</title>
+<META content="杭州华三通信技术有限公司招聘 前程无忧官方网站，提供最新杭州华三通信技术有限公司招聘职位，校园招聘信息，杭州华三通信技术有限公司面试技巧等。帮助您顺利踏入杭州华三通信技术有限公司的大门，与众多杭州华三通信技术有限公司精英们开启一段崭新的职业生涯。" name="description">
+<META content ="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+<link href="http://career.h3c.com/styles.css" rel="stylesheet" type="text/css">
+
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript" src="http://career.h3c.com/images/jsplayer.js"></script>
+<script type="text/javascript" language="javascript" src="http://career.h3c.com/images/jsall.js"></script>
+
+<style type="text/css">
+<!--
+body {
+	background-color: #EFEFEF;
+}
+.wz {
+	color: #FF3300;
+	font-weight: bold;
+	font-size: 14px;
+}
+.bq {
+	color: #666666;
+}
+-->
+</style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  
+    <script language="javascript">
+function setHomepage(website)
+{
+	if (document.all)
+	{
+		document.body.style.behavior='url(#default#homepage)';
+		document.body.setHomePage(website);
+	}
+	else if (window.sidebar)
+	{
+		if(window.netscape)
+		{
+			try
+			{
+				netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect"); 
+			}
+			catch (e) 
+			{
+				alert( "该操作被浏览器拒绝，如果想启用该功能，请在地址栏内输入 about:config,然后将项 signed.applets.codebase_principal_support 值该为true" ); 
+			}
+		}
+		var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+		prefs.setCharPref('browser.startup.homepage',website);
+	}
+}
+
+function addFav(website, webname)
+{
+	if (document.all)
+	{
+		window.external.addFavorite(website,webname);
+	}
+	else if (window.sidebar)
+	{
+		window.sidebar.addPanel(webname, website, "");
+	}
+}
+
+
+//-->
+</script>
+<tr>
+    <td valign="top"><img src="http://career.h3c.com/images/index_01.jpg" alt="" width="1002" height="75" border="0" usemap="#Map" /></td>
+</tr>
+  <tr>
+    <td valign="top"><table width="1002" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="750" valign="top"><object id="FlashID2" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="750" height="385">
+
+          <param name="movie" value="http://career.h3c.com/images/main55new05.swf" />
+
+          <param name="quality" value="high" />
+
+          <param name="wmode" value="opaque" />
+
+          <param name="swfversion" value="6.0.65.0" />
+
+          <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+
+          <param name="expressinstall" value="http://career.h3c.com/Scripts/expressInstall.swf" />
+
+          <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+
+          <!--[if !IE]>-->
+
+          <object type="application/x-shockwave-flash" data="http://career.h3c.com/images/main55new05.swf" width="750" height="385">
+
+            <!--<![endif]-->
+
+            <param name="quality" value="high" />
+
+            <param name="wmode" value="opaque" />
+
+            <param name="swfversion" value="6.0.65.0" />
+
+            <param name="expressinstall" value="http://career.h3c.com/Scripts/expressInstall.swf" />
+
+            <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+
+            <div>
+
+              <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+
+              <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" /></a></p>
+
+            </div>
+
+            <!--[if !IE]>-->
+
+          </object>
+
+          <!--<![endif]-->
+
+        </object>
+
+</td>
+        <td width="252" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top"><img src="http://career.h3c.com/images/index_03.jpg" width="252" height="75" alt="" /></td>
+          </tr>
+          <tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td rowspan="13"><img src="http://career.h3c.com/images/index_04.jpg" width="40" height="310" alt="" /></td>
+                <td><img src="http://career.h3c.com/images/index_05.jpg" width="166" height="50" alt="" /></td>
+                <td rowspan="13"><img src="http://career.h3c.com/images/index_06.jpg" width="46" height="310" alt="" /></td>
+              </tr>
+              <tr>
+                <td><a href="http://career.h3c.com/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','http://career.h3c.com/images/index_07over.jpg',1)"><img src="http://career.h3c.com/images/index_07.jpg" width="166" height="30" name="Image1" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_08.jpg" width="166" height="10" alt="" /></td>
+                </tr>
+              <tr>
+                <td><a href="http://career.h3c.com/about.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','http://career.h3c.com/images/index_09over.jpg',1)"><img src="http://career.h3c.com/images/index_09.jpg" width="166" height="30" name="Image2" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_10.jpg" width="166" height="10" alt="" /></td>
+                </tr>
+              <tr>
+                <td><a href="http://career.h3c.com/sc/job_list.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','http://career.h3c.com/images/index_11.jpg',1)"><img src="http://career.h3c.com/images/index_11over.jpg" width="166" height="30" name="Image3" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_12.jpg" width="166" height="10" alt="" /></td>
+                </tr>
+              <tr>
+                <td><a href="http://career.h3c.com/gsyj.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','http://career.h3c.com/images/index_13over.jpg',1)"><img src="http://career.h3c.com/images/index_13.jpg" width="166" height="30" name="Image4" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_14.jpg" width="166" height="10" alt="" /></td>
+                </tr>
+              <tr>
+                <td><a href="http://career.h3c.com/pxxx.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','http://career.h3c.com/images/index_15.jpg',1)"><img src="http://career.h3c.com/images/index_15.jpg" width="166" height="30" name="Image5" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_16.jpg" width="166" height="10" alt="" /></td>
+                </tr>
+              <tr>
+                <td><a href="http://www.h3c.com/cn/" target="_blank" onMouseOver="MM_swapImage('Image6','','http://career.h3c.com/images/index_17.jpg',1)" onMouseOut="MM_swapImgRestore()"><img src="http://career.h3c.com/images/index_17.jpg" width="166" height="30" name="Image6" border="0" alt="" /></a></td>
+                </tr>
+              <tr>
+                <td><img src="http://career.h3c.com/images/index_18.jpg" width="166" height="30" alt="" /></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  
+  <map name="Map" id="Map">
+  <area shape="rect" coords="862,28,922,47" href="javascript:void(0);" onclick="addFav('http://career.h3c.com', '杭州华三通信技术有限公司招聘网站');"/>
+  <area shape="rect" coords="931,28,986,48" href="javascript:void(0);" onclick="setHomepage('http://career.h3c.com');"/>
+</map>
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="166,12,203,30" href="http://career.h3c.com/sc/job_list.php" />
+</map>
+<map name="Map3" id="Map3">
+  <area shape="rect" coords="72,10,134,35" href="http://career.h3c.com/sc/job_list.php" />
+</map>
+<map name="Map4" id="Map4">
+  <area shape="rect" coords="35,92,172,119" href="http://career.h3c.com/rck.php?jobid=(47062303)" />
+</map>  <tr>
+    <td valign="top"><table width="1002" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="26" valign="top" background="http://career.h3c.com/images/index_19.jpg">&nbsp;</td>
+        <td width="206" valign="top"><script language="javascript">
+function clearfield()
+{
+	if (document.quicksearch.keyword.value == "--关键字查询--")
+		document.quicksearch.keyword.value = "";
+}
+</script>
+<form name="quicksearch" method="post" action="http://career.h3c.com/sc/job_list.php">
+<input type="hidden" name="keywordtype" value="2">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="http://career.h3c.com/images/index_20.jpg" alt="" width="206" height="53" border="0" usemap="#Map2" /></td>
+          </tr>
+          <tr>
+            <td background="http://career.h3c.com/images/index_25.jpg"><table width="186" height="180" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td valign="bottom">
+                      <select name="division" style="WIDTH: 186px">
+                        <option value="">--业务部门--</option>
+						<option value="(665114)" title="市场销售类">市场销售类</option>
+<option value="(665115)" title="全球技术服务部">全球技术服务部</option>
+<option value="(676104)" title="研发部">研发部</option>
+<option value="(699127)" title="供应链管理部">供应链管理部</option>
+<option value="(702145)" title="财经管理部">财经管理部</option>
+<option value="(1322232)" title="总裁办">总裁办</option>
+<option value="(1330124)" title="人力资源部">人力资源部</option>
+<option value="(1809152)" title="研发杭州">研发杭州</option>
+<option value="(1809154)" title="研发北京">研发北京</option>
+<option value="(4033840)" title="市场产品类">市场产品类</option>
+<option value="(4388237)" title="SOHO事业部">SOHO事业部</option>
+<option value="(4393055)" title="云计算产品线">云计算产品线</option>
+<option value="(4424156)" title="道德与合规办公室">道德与合规办公室</option>
+<option value="(4425824)" title="安全产品线">安全产品线</option>
+                    </select>                  
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom">
+                    <select name="funtype" style="WIDTH: 186px">
+                        <option value="0000">--工作类别--</option>
+						<option value="0100" title="计算机软件">计算机软件</option>
+<option value="0106" title="--高级软件工程师">--高级软件工程师</option>
+<option value="0107" title="--软件工程师">--软件工程师</option>
+<option value="0108" title="--数据库工程师/管理员">--数据库工程师/管理员</option>
+<option value="0127" title="--系统工程师">--系统工程师</option>
+<option value="0142" title="--其他">--其他</option>
+<option value="0143" title="--系统架构设计师">--系统架构设计师</option>
+<option value="0145" title="--仿真应用工程师">--仿真应用工程师</option>
+<option value="0148" title="--算法工程师">--算法工程师</option>
+<option value="0200" title="销售管理">销售管理</option>
+<option value="0202" title="--销售经理">--销售经理</option>
+<option value="0203" title="--销售主管">--销售主管</option>
+<option value="0207" title="--渠道/分销经理">--渠道/分销经理</option>
+<option value="0208" title="--客户经理/主管">--客户经理/主管</option>
+<option value="0220" title="--渠道/分销主管">--渠道/分销主管</option>
+<option value="0226" title="--区域销售经理">--区域销售经理</option>
+<option value="0231" title="--其他">--其他</option>
+<option value="0232" title="--业务拓展主管/经理">--业务拓展主管/经理</option>
+<option value="0233" title="--渠道/分销总监">--渠道/分销总监</option>
+<option value="0300" title="市场/营销">市场/营销</option>
+<option value="0302" title="--市场/营销/拓展经理">--市场/营销/拓展经理</option>
+<option value="0304" title="--市场/营销/拓展专员">--市场/营销/拓展专员</option>
+<option value="0306" title="--产品/品牌经理">--产品/品牌经理</option>
+<option value="0324" title="--市场分析/调研人员">--市场分析/调研人员</option>
+<option value="0330" title="--产品/品牌专员">--产品/品牌专员</option>
+<option value="0400" title="财务/审计/税务">财务/审计/税务</option>
+<option value="0405" title="--会计">--会计</option>
+<option value="0407" title="--财务分析员">--财务分析员</option>
+<option value="0410" title="--审计经理/主管">--审计经理/主管</option>
+<option value="0412" title="--税务专员/助理">--税务专员/助理</option>
+<option value="0419" title="--审计专员/助理">--审计专员/助理</option>
+<option value="0443" title="--其他">--其他</option>
+<option value="0500" title="工程/机械/能源">工程/机械/能源</option>
+<option value="0547" title="--产品工艺/制程工程师">--产品工艺/制程工程师</option>
+<option value="0561" title="--结构工程师">--结构工程师</option>
+<option value="0600" title="人力资源">人力资源</option>
+<option value="0602" title="--人事经理">--人事经理</option>
+<option value="0604" title="--人事专员">--人事专员</option>
+<option value="0606" title="--招聘经理/主管">--招聘经理/主管</option>
+<option value="0607" title="--薪资福利经理/主管">--薪资福利经理/主管</option>
+<option value="0625" title="--其他">--其他</option>
+<option value="0626" title="--招聘专员/助理">--招聘专员/助理</option>
+<option value="0629" title="--企业文化/员工关系/工会管理">--企业文化/员工关系/工会管理</option>
+<option value="0700" title="高级管理">高级管理</option>
+<option value="0703" title="--总裁助理/总经理助理">--总裁助理/总经理助理</option>
+<option value="0800" title="物流/仓储">物流/仓储</option>
+<option value="0804" title="--物料主管/专员">--物料主管/专员</option>
+<option value="0825" title="--供应链经理">--供应链经理</option>
+<option value="0828" title="--供应链总监">--供应链总监</option>
+<option value="1100" title="律师/法务/合规">律师/法务/合规</option>
+<option value="1101" title="--律师/法律顾问">--律师/法律顾问</option>
+<option value="1102" title="--法务主管/专员">--法务主管/专员</option>
+<option value="1108" title="--知识产权/专利/商标">--知识产权/专利/商标</option>
+<option value="1400" title="咨询/顾问">咨询/顾问</option>
+<option value="1401" title="--专业顾问">--专业顾问</option>
+<option value="1900" title="其他">其他</option>
+<option value="1901" title="--其他">--其他</option>
+<option value="2100" title="建筑工程与装潢">建筑工程与装潢</option>
+<option value="2101" title="--建筑工程师">--建筑工程师</option>
+<option value="2103" title="--建筑机电工程师">--建筑机电工程师</option>
+<option value="2104" title="--给排水/暖通工程">--给排水/暖通工程</option>
+<option value="2107" title="--工程监理">--工程监理</option>
+<option value="2300" title="行政/后勤">行政/后勤</option>
+<option value="2302" title="--行政经理/主管/办公室主任">--行政经理/主管/办公室主任</option>
+<option value="2303" title="--行政专员/助理">--行政专员/助理</option>
+<option value="2304" title="--经理助理/秘书">--经理助理/秘书</option>
+<option value="2400" title="计算机硬件">计算机硬件</option>
+<option value="2401" title="--高级硬件工程师">--高级硬件工程师</option>
+<option value="2402" title="--硬件工程师">--硬件工程师</option>
+<option value="2500" title="互联网/电子商务/网游">互联网/电子商务/网游</option>
+<option value="2501" title="--互联网软件开发工程师">--互联网软件开发工程师</option>
+<option value="2504" title="--网络工程师">--网络工程师</option>
+<option value="2509" title="--网络信息安全工程师">--网络信息安全工程师</option>
+<option value="2511" title="--其他">--其他</option>
+<option value="2525" title="--产品经理/主管">--产品经理/主管</option>
+<option value="2539" title="--Web前端开发">--Web前端开发</option>
+<option value="2600" title="IT-管理">IT-管理</option>
+<option value="2602" title="--技术总监/经理">--技术总监/经理</option>
+<option value="2603" title="--信息技术经理/主管">--信息技术经理/主管</option>
+<option value="2605" title="--项目总监">--项目总监</option>
+<option value="2606" title="--项目经理">--项目经理</option>
+<option value="2607" title="--项目主管">--项目主管</option>
+<option value="2608" title="--项目执行/协调人员">--项目执行/协调人员</option>
+<option value="2609" title="--其他">--其他</option>
+<option value="2700" title="IT-品管、技术支持及其它">IT-品管、技术支持及其它</option>
+<option value="2701" title="--技术支持/维护经理">--技术支持/维护经理</option>
+<option value="2702" title="--技术支持/维护工程师">--技术支持/维护工程师</option>
+<option value="2706" title="--系统测试">--系统测试</option>
+<option value="2707" title="--软件测试">--软件测试</option>
+<option value="2708" title="--硬件测试">--硬件测试</option>
+<option value="2711" title="--其他">--其他</option>
+<option value="2800" title="通信技术开发及应用">通信技术开发及应用</option>
+<option value="2801" title="--通信技术工程师">--通信技术工程师</option>
+<option value="2805" title="--数据通信工程师">--数据通信工程师</option>
+<option value="2809" title="--其他">--其他</option>
+<option value="2900" title="电子/电器/半导体/仪器仪表">电子/电器/半导体/仪器仪表</option>
+<option value="2910" title="--嵌入式软件开发(Linux/单片机/PLC/DSP…)">--嵌入式软件开发(Linux/单片机/PLC/DSP…)</option>
+<option value="2915" title="--测试工程师">--测试工程师</option>
+<option value="2916" title="--其他">--其他</option>
+<option value="2919" title="--嵌入式硬件开发(主板机…)">--嵌入式硬件开发(主板机…)</option>
+<option value="3000" title="销售人员">销售人员</option>
+<option value="3001" title="--销售代表">--销售代表</option>
+<option value="3002" title="--渠道/分销专员">--渠道/分销专员</option>
+<option value="3003" title="--客户代表">--客户代表</option>
+<option value="3004" title="--销售工程师">--销售工程师</option>
+<option value="3006" title="--经销商">--经销商</option>
+<option value="3009" title="--大客户销售">--大客户销售</option>
+<option value="3100" title="销售行政及商务">销售行政及商务</option>
+<option value="3102" title="--销售行政专员">--销售行政专员</option>
+<option value="3105" title="--商务助理">--商务助理</option>
+<option value="3107" title="--其他">--其他</option>
+<option value="3109" title="--业务分析专员/助理">--业务分析专员/助理</option>
+<option value="3200" title="客服及支持">客服及支持</option>
+<option value="3204" title="--客服专员/助理">--客服专员/助理</option>
+<option value="3205" title="--售前/售后技术支持经理">--售前/售后技术支持经理</option>
+<option value="3206" title="--售前/售后技术支持主管">--售前/售后技术支持主管</option>
+<option value="3207" title="--售前/售后技术支持工程师">--售前/售后技术支持工程师</option>
+<option value="3209" title="--其他">--其他</option>
+<option value="3210" title="--客户关系经理/主管">--客户关系经理/主管</option>
+<option value="3500" title="生产/营运">生产/营运</option>
+<option value="3508" title="--生产计划/物料管理(PMC)">--生产计划/物料管理(PMC)</option>
+<option value="3512" title="--生产文员">--生产文员</option>
+<option value="3516" title="--设备主管">--设备主管</option>
+<option value="3600" title="质量安全">质量安全</option>
+<option value="3601" title="--质量管理/测试经理(QA/QC经理)">--质量管理/测试经理(QA/QC经理)</option>
+<option value="3602" title="--质量管理/测试主管(QA/QC主管)">--质量管理/测试主管(QA/QC主管)</option>
+<option value="3900" title="采购">采购</option>
+<option value="3904" title="--采购员">--采购员</option>
+<option value="3905" title="--采购助理">--采购助理</option>
+<option value="3908" title="--买手">--买手</option>
+<option value="4300" title="公关/媒介">公关/媒介</option>
+<option value="4307" title="--媒介经理">--媒介经理</option>
+<option value="6100" title="网店淘宝">网店淘宝</option>
+<option value="6101" title="--网店/淘宝店长">--网店/淘宝店长</option>
+                    </select>
+                    
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom">
+                    <select name="jobarea" style="WIDTH: 186px">
+                        <option value="0000">--工作地点--</option>
+												<option value="010000" title="北京">北京</option>
+<option value="010500" title="北京-朝阳区">北京-朝阳区</option>
+<option value="010800" title="北京-海淀区">北京-海淀区</option>
+<option value="011300" title="北京-昌平区">北京-昌平区</option>
+<option value="020000" title="上海">上海</option>
+<option value="021000" title="上海-浦东新区">上海-浦东新区</option>
+<option value="030200" title="广州">广州</option>
+<option value="030204" title="广州-天河区">广州-天河区</option>
+<option value="030800" title="东莞">东莞</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="040300" title="深圳-南山区">深圳-南山区</option>
+<option value="050000" title="天津">天津</option>
+<option value="050800" title="天津-西青区">天津-西青区</option>
+<option value="060000" title="重庆">重庆</option>
+<option value="070200" title="南京">南京</option>
+<option value="070300" title="苏州">苏州</option>
+<option value="070400" title="无锡">无锡</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080205" title="杭州-西湖区">杭州-西湖区</option>
+<option value="080206" title="杭州-滨江区">杭州-滨江区</option>
+<option value="080306" title="宁波-鄞州区">宁波-鄞州区</option>
+<option value="080400" title="温州">温州</option>
+<option value="090200" title="成都">成都</option>
+<option value="090202" title="成都-锦江区">成都-锦江区</option>
+<option value="090204" title="成都-武侯区">成都-武侯区</option>
+<option value="100200" title="海口">海口</option>
+<option value="110200" title="福州">福州</option>
+<option value="110300" title="厦门">厦门</option>
+<option value="120200" title="济南">济南</option>
+<option value="130200" title="南昌">南昌</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="150200" title="合肥">合肥</option>
+<option value="150208" title="合肥-高新区">合肥-高新区</option>
+<option value="160200" title="石家庄">石家庄</option>
+<option value="170200" title="郑州">郑州</option>
+<option value="170213" title="郑州-郑东新区">郑州-郑东新区</option>
+<option value="180200" title="武汉">武汉</option>
+<option value="190200" title="长沙">长沙</option>
+<option value="200200" title="西安">西安</option>
+<option value="200214" title="西安-高新技术产业开发区">西安-高新技术产业开发区</option>
+<option value="210200" title="太原">太原</option>
+<option value="220200" title="哈尔滨">哈尔滨</option>
+<option value="230200" title="沈阳">沈阳</option>
+<option value="230300" title="大连">大连</option>
+<option value="240200" title="长春">长春</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="260200" title="贵阳">贵阳</option>
+<option value="270200" title="兰州">兰州</option>
+<option value="280200" title="呼和浩特">呼和浩特</option>
+<option value="310200" title="乌鲁木齐">乌鲁木齐</option>
+<option value="320200" title="西宁">西宁</option>
+                    </select>
+                    
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom"><select name="issuedate" style="WIDTH: 186px">
+                        <option value="0000">--发布日期--</option>
+						<OPTION VALUE=01>近一天</OPTION><OPTION VALUE=02>近二天</OPTION><OPTION VALUE=03>近三天</OPTION><OPTION VALUE=07>近一周</OPTION><OPTION VALUE=14>近两周</OPTION><OPTION VALUE=30>近一月</OPTION><OPTION VALUE=42>近六周</OPTION><OPTION VALUE=60>近两月</OPTION>                    </select></td>
+                  </tr>
+                  <tr>
+                    <td valign="bottom">
+                    	<input onFocus="javascript:clearfield();" value="--关键字查询--" name="keyword" style=" width:185px; height:22px; " type="text" size="25">
+                   	</td>
+                  </tr>
+               </table></td>
+          </tr>
+          <tr>
+            <td><input type="image"  src="http://career.h3c.com/images/index_26.jpg" alt="" width="206" height="56" border="0"  /></td>
+          </tr>
+          <tr>
+            <td><img src="http://career.h3c.com/images/index_29.jpg" width="206" height="10" alt="" /></td>
+          </tr>
+          <tr>
+            <td><a href="http://career.h3c.com/rck.php"><img src="http://career.h3c.com/images/index_30.jpg" alt="" width="206" height="130" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td><img src="http://career.h3c.com/images/index_31.jpg" width="206" height="20" alt="" /></td>
+          </tr>
+  </table>
+</form>
+</td>
+        <td width="20" valign="top" background="http://career.h3c.com/images/index_21.jpg">&nbsp;</td>
+        <td width="724" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="http://career.h3c.com/images/job_27.jpg" alt="" width="724" height="40" border="0"></td>
+          </tr>
+          <tr>
+            <td height="10"></td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="96%" height="28" align="right" valign="top"><a href="javascript:history.back();">&gt;&gt; 返回上一页</a></td>
+                    <td width="4%">&nbsp;</td>
+                  </tr>
+                </table>
+                  <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+				                    <tr>
+                    <td height="30" bgcolor="#e4f8ff"><strong>　职位名称：</strong> <span class="wz">技术咨询部销售</span></td>
+                  </tr>
+                  <tr>
+                    <td height="10"></td>
+                  </tr>
+                  <tr>
+                    <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25"><strong>职位基本信息：</strong></td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width="50%" height="25">发布日期： 2017-12-17</td>
+                        <td width="50%">工作地点： 杭州-西湖区</td>
+                      </tr>
+                      <tr>
+                        <td width="50%" height="25">招聘人数： 4</td>
+                        <td width="50%">工作年限： 3-4年</td>
+                      </tr>
+                      <tr>
+                        <td height="25">学　　历： 本科</td>
+                        <td>工作性质： 全职</td>
+                      </tr>
+                      <tr>
+                        <td height="21" colspan="2" background="http://career.h3c.com/images/xx.gif"></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td>岗位主要职责<br />
+(1)完成既定技术咨询服务的销售业绩要求，以签订进单的合同金额为准<br />
+(2)端到端负责项目的发现，需求方案交流，商务流程，合同签订，及收缴首付款，具体包括但不仅限于，负责掌握前端客户项目需求，带领内部技术团队（必要时协调第三方资源）制定解决方案和完成招投标等，协调职能部门的内部流程，直至完成合同签订<br />
+(3)负责覆盖指定区域或者指定行业的客户，向区域销售主管汇报，包括IT部们中高层客户关系管理、客户各职能部门关系及流程管理，客户IT项目的机会管理，重要客户的年度计划等<br />
+<br />
+岗位任职要求<br />
+(1)	要求本科学位及以上，且主修信息技术相关专业<br />
+(2)	要求5年以上IT解决方案或者IT产品销售经验，且有较好业绩的完成<br />
+(3)	要求有不少于2年大型IT公司工作经验，大型IT公司指IT科技板块年营收大于2个亿，正式员工人数200人以上的公司<br />
+(4)	要求在或者某一行业，或者某一区域，有很强的销售资源积累，包括客户资源、渠道资源，有能力快速建立有效项目机会<br />
+(5)	要求有较为全面IT解决方案知识面的积累，包括IT基础架构、行业应用、数据中心等领域，也包括云计算、大数据、物联网等新IT发展趋势<br />
+(6)	要求具备很强的沟通能力和技巧，能短时间掌握客户需求，有覆盖CxO的能力和经验</td>
+                      </tr>
+                      <tr>
+                        <td height="21" background="http://career.h3c.com/images/xx.gif"></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table width="96%" height="35" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td><div align="right">[　<a href="http://career.h3c.com/cv_easy/cv_log.php?jobid=(90499298)">申请该职位</a>　]　[　<a href="http://career.h3c.com/cv/sendjob_tofriend.php?jobid=90499298">推荐给朋友</a>　]</div></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+				                    </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="20"></td>
+          </tr>
+        </table></td>
+        <td width="26" valign="top" background="http://career.h3c.com/images/index_23.jpg">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="50" align="center" background="http://career.h3c.com/images/index_32.jpg"><img src="http://career.h3c.com/images/hand.gif" width="22" height="22"><span class="bq"> 未经51job.com同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有&copy; 1999-2017</span></td>
+  </tr>
+</table>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+Java开发工程师(大数据）
+岗位职责：
+1、参与产品需求的分析、系统开发设计和数据库设计等工作；
+2、根据团队任务分配承担项目核心代码的编写，完成技术难点攻关；
+3、协助技术经理做团队任务分解、计划制定。
+任职要求：
+1、具有2年以上Java研发工作经验；
+2、熟练掌握Spring、SpringMVC、Mybatis、servlet、Javascript、Jquery、Ajax、Webservice等主流开发技术，熟悉
+MVC设计模式；
+3、熟练使用Tomcat、Apache，Nginx等应用和服务器配置；
+4、熟练掌握Oracle、SQLserver等主流数据库，精通SQL编写和优化；
+5、了解UML等建模语言、PowerDesigner等设计常用工具；
+6、规范化的编程风格；较强的独立工作能力和团队协作精神；有较好的沟通表达能力；
+7、有R语言、redis、dubbo、mongodb、Memcache、搜索引擎开发等实际开发经验者优先。
+8、中级工资2W+，高级薪酬3W+

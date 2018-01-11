@@ -1,0 +1,15 @@
+大数据开发工程师
+岗位职责：
+1.负责大数据平台的开发、维护工作；
+2.负责大数据采集、清洗、整合等工作；
+3.负责大数据平台文本挖掘分析等工作；
+4.负责BI及报表开发。
+
+任职要求：
+1、深厚的Java功底，多年的并发编程经验；
+2、参与过分布式高性能服务的设计开发过程，有大规模分布式系统的实践经验；
+3、熟悉HDFS/HBase/Hive/MapReduce/Storm/Spark等相关技术,有 MapReduce 程序的实战开发经验；
+4、熟悉Hadoop运行监控及调优技术；
+5、熟悉常见存储技术（Sqlserver ,Oracle, Mysql, NosqlDB），WebService/WebAPI（SOAP/json）；
+6、熟悉scala语言优先；
+7、计算机相关专业专科及以上学历。

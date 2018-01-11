@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>
+	var _tkd = _tkd || [];
+	var param = 'webId=4&accountId=&ctmId=206193&guid=&dType=1&jobId=96155598&type=0&urlType=3';
+
+	_tkd.push(['_setParams', param]);
+	_tkd.push(["_setAutoButtonClick", true, 'a']);
+	_tkd.push(["_setAutoPageview", true]);
+
+	document.write(unescape("%3Cscript src='http://trace.51jingying.com/trackBigdata.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--Original Designer:东软飞利浦医疗系统有限公司 -->
+<!--标准title代码 -->
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>东软集团股份有限公司</title>
+<meta content=" 东软飞利浦医疗系统有限公司招聘 前程无忧官方网站，提供最新 东软飞利浦医疗系统有限公司招聘职位，校园招聘信息， 东软飞利浦医疗系统有限公司面试技巧等。帮助您顺利踏入 东软飞利浦医疗系统有限公司的大门，与众多 东软飞利浦医疗系统有限公司精英们开启一段崭新的职业生涯。" name="description">
+<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="robots" content="all" />
+<meta name="viewport" content="width=1280">
+<meta http-equiv="cache-control" content="no-siteapp">
+<meta name="render" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+<meta name="author" content="yuanXu">
+
+<!--相对路径代码 -->
+<link href="http://neusoft.51job.com/css/reset.min.css" rel="stylesheet" type="text/css">
+<link href="http://neusoft.51job.com/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://neusoft.51job.com/js/jquery-1.11.1.min.js"></script>
+</head>
+
+<body>
+
+<div class="wrap"><!-- wrap -->
+	<div class="head">
+		<ul>
+			<li class="none active"><a href="http://neusoft.51job.com/sc/job_list.php">社会招聘</a></li>
+			<li><a href="http://neusoft.51job.com/fw.php">服务</a></li>
+			<li class="show"><a class="this" href="http://neusoft.51job.com/about.php">关于东软</a>
+				<ul class="now">
+					<li><a href="http://neusoft.51job.com/about.php">愿景与使命</a></li>
+					<li><a href="http://neusoft.51job.com/info1.php">创造可持续发展</a></li>
+					<li><a href="http://neusoft.51job.com/info2.php">社会责任</a></li>
+					<li><a href="http://neusoft.51job.com/info3.php">获得奖项</a></li>
+					<li><a href="http://neusoft.51job.com/info4.php">历史</a></li>
+					<li><a href="http://neusoft.51job.com/info6.php">认证</a></li>
+					<li><a href="http://neusoft.51job.com/info5.php">合作伙伴</a></li>
+				</ul>
+			</li>
+			<li><a href="http://neusoft.51job.com/index.php">首页</a></li>
+		</ul>
+	</div>
+	<div class="sos">
+		    <div class="select">
+		<form name = "quicksearch" method = "post" action = "http://neusoft.51job.com/sc/job_list.php?begin=begin">
+			<input type="hidden" name="keywordtype" value="2" />
+            <span>选择公司名称</span>
+            <select name= "company">
+                <option value="">--选择公司名称--</option>
+				<option value="3883377"  title="东软管理咨询（上海）有限公司">东软管理咨询（上海）有限公司</option>
+<option value="3861376"  title="东软睿驰汽车技术（沈阳）有限公司">东软睿驰汽车技术（沈阳）有限公司</option>
+<option value="2646886"  title="东软熙康健康科技有限公司">东软熙康健康科技有限公司</option>
+<option value="2213650"  title="东软集团股份有限公司">东软集团股份有限公司</option>
+            </select>
+            <span style="margin-left:20px;">选择工作地点</span>
+            <select name = "jobarea">
+                <option value="">--请选择工作地点--</option>
+                <option value="010000" title="北京">北京</option>
+<option value="010100" title="北京-东城区">北京-东城区</option>
+<option value="010800" title="北京-海淀区">北京-海淀区</option>
+<option value="011500" title="北京-怀柔区">北京-怀柔区</option>
+<option value="020000" title="上海">上海</option>
+<option value="020300" title="上海-徐汇区">上海-徐汇区</option>
+<option value="020900" title="上海-杨浦区">上海-杨浦区</option>
+<option value="021000" title="上海-浦东新区">上海-浦东新区</option>
+<option value="021100" title="上海-闵行区">上海-闵行区</option>
+<option value="021300" title="上海-嘉定区">上海-嘉定区</option>
+<option value="030200" title="广州">广州</option>
+<option value="030204" title="广州-天河区">广州-天河区</option>
+<option value="030206" title="广州-黄埔区">广州-黄埔区</option>
+<option value="030500" title="珠海">珠海</option>
+<option value="030600" title="佛山">佛山</option>
+<option value="030603" title="佛山-南海区">佛山-南海区</option>
+<option value="031800" title="肇庆">肇庆</option>
+<option value="040000" title="深圳">深圳</option>
+<option value="040100" title="深圳-福田区">深圳-福田区</option>
+<option value="040300" title="深圳-南山区">深圳-南山区</option>
+<option value="050000" title="天津">天津</option>
+<option value="060700" title="重庆-渝北区">重庆-渝北区</option>
+<option value="070200" title="南京">南京</option>
+<option value="070210" title="南京-雨花台区">南京-雨花台区</option>
+<option value="070600" title="昆山">昆山</option>
+<option value="071100" title="徐州">徐州</option>
+<option value="080200" title="杭州">杭州</option>
+<option value="080205" title="杭州-西湖区">杭州-西湖区</option>
+<option value="080307" title="宁波-慈溪市">宁波-慈溪市</option>
+<option value="090220" title="成都-高新区">成都-高新区</option>
+<option value="091000" title="攀枝花">攀枝花</option>
+<option value="100200" title="海口">海口</option>
+<option value="110200" title="福州">福州</option>
+<option value="110201" title="福州-鼓楼区">福州-鼓楼区</option>
+<option value="120200" title="济南">济南</option>
+<option value="120300" title="青岛">青岛</option>
+<option value="120500" title="潍坊">潍坊</option>
+<option value="130200" title="南昌">南昌</option>
+<option value="130300" title="九江">九江</option>
+<option value="130400" title="景德镇">景德镇</option>
+<option value="140200" title="南宁">南宁</option>
+<option value="150200" title="合肥">合肥</option>
+<option value="160200" title="石家庄">石家庄</option>
+<option value="170200" title="郑州">郑州</option>
+<option value="170300" title="洛阳">洛阳</option>
+<option value="180200" title="武汉">武汉</option>
+<option value="180207" title="武汉-洪山区">武汉-洪山区</option>
+<option value="180210" title="武汉-蔡甸区">武汉-蔡甸区</option>
+<option value="180300" title="宜昌">宜昌</option>
+<option value="190200" title="长沙">长沙</option>
+<option value="200200" title="西安">西安</option>
+<option value="200206" title="西安-雁塔区">西安-雁塔区</option>
+<option value="210200" title="太原">太原</option>
+<option value="220200" title="哈尔滨">哈尔滨</option>
+<option value="230200" title="沈阳">沈阳</option>
+<option value="230202" title="沈阳-浑南区">沈阳-浑南区</option>
+<option value="230204" title="沈阳-和平区">沈阳-和平区</option>
+<option value="230300" title="大连">大连</option>
+<option value="230304" title="大连-甘井子区">大连-甘井子区</option>
+<option value="230312" title="大连-高新园区">大连-高新园区</option>
+<option value="240200" title="长春">长春</option>
+<option value="250200" title="昆明">昆明</option>
+<option value="260200" title="贵阳">贵阳</option>
+<option value="270200" title="兰州">兰州</option>
+<option value="280200" title="呼和浩特">呼和浩特</option>
+<option value="290200" title="银川">银川</option>
+<option value="300200" title="拉萨">拉萨</option>
+<option value="310200" title="乌鲁木齐">乌鲁木齐</option>
+<option value="320200" title="西宁">西宁</option>
+<option value="340000" title="澳门">澳门</option>
+            </select>
+            <span style="margin-left:20px;">搜索职位名称：</span>
+			<input type="text" value="输入职位关键字" name="keyword" onfocus = "javascript:clearfield(this)" onblur= "if(this.value == '') this.value = '输入职位关键字'"/>
+            <button style = "display: block; width:86px; height: 36px; background: #014fa1; position: absolute; right:0; top: 0; font-size: 16px; color: #ffffff; text-align: center;line-height: 36px;">搜索</button>  
+		</form>
+    </div>
+	<script language="javascript">
+	  function clearfield(obj)
+		{
+		if (obj.value == "输入职位关键字")
+			obj.value = "";
+		}
+	</script>	</div>
+
+	<div class="box jd">
+				<div class="lside">
+			<div>
+				<h6><strong>热招职位</strong><a href="http://neusoft.51job.com/sc/hot_job_list.php">更多</a></h6>
+								<br />
+			</div>
+		</div>		<div class="rside">
+			<img src="http://neusoft.51job.com/images/index-img-1.png" alt="" />
+			<img src="http://neusoft.51job.com/images/job-title.png" alt="" class="title" />
+			<br />
+			<div>
+								<h1>智慧城市设计师</h1>
+				<p>
+					<span>职位描述：</span><br />
+					职责描述：<br />
+1、开展智慧城市项目的前期调研、规划设计和战略研究，提供专项研究报告，挖掘引导客户需求，针对需求进行技术规划与设计咨询方案；<br />
+2、负责智慧城市理念的理解与宣讲，与客户进行战略层面的对话；<br />
+3、与国家智慧城市相关组织保持沟通，及时解读国家对智慧城市建设的政策；<br />
+4、完成智慧城市业务的咨询规划和运营落地；<br />
+任职要求：<br />
+1、本科以上学历，计算机、软件工程、电子通信等相关专业，有大型智慧城市项目背景优先；<br />
+2、熟悉国内智慧城市商业和运营模式，了解智慧城市解决方案的架构以及各方（厂商、运营商、政府部门等）在智慧城市建设中的作用和地位，熟悉主流技术在智慧城市业务中的应用；<br />
+3、熟悉顶层设计方法论和智慧城市规划设计中的主要内容，拥有良好的组织协调能力，能够协调各方力量完成智慧城市的顶层设计工作；<br />
+4、良好的沟通与交流能力，能够与高级别客户进行战略层面的对话；<br />
+5、积极主动、性格开朗，擅长从事有挑战性的工作，能够建立较为广泛的行业人脉；					<br />
+				</p>
+				<h2><a href="http://neusoft.51job.com/sc/job_list.php">返回职位列表</a><a href="http://neusoft.51job.com/cv_easy/cv_log.php?jobid=(96155598)">立即申请</a></h2>
+							</div>
+			<br />
+			<br />
+		</div>
+	</div>
+    	
+    <!--版权信息区域-->
+    <div class="copyright">
+        <img src="http://neusoft.51job.com/images/hand.png" width="15" height="20">&nbsp;未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有 &#169;1999-
+        <script language="JavaScript">var now = new Date();var year = now.getFullYear();document.write(year);</script>
+    </div>
+    <!--版权信息区域end-->
+    
+</div><!-- wrap end -->
+
+</body>
+</html>
